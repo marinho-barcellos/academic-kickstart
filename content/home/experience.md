@@ -2,8 +2,8 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 70  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -17,28 +17,64 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Senior Lecturer"
+  company = "University of Waikato"
+  company_url = "https://www.waikato.ac.nz/"
+  location = "Hamilton, New Zealand"
+  date_start = "2019-10-01"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+  * Research
+  * Lecturing
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Associate Professor"
+  company = "INF/UFRGS"
+  company_url = "http://www.inf.ufrgs.br/~marinho/"
+  location = "Porto Alegre, Brazil"
+  date_start = "2010-02-10"
+  date_end = "2019-09-30"
+  description = """
+  Responsibilities include:
+  
+  * Supervising students
+  * Principal investigator of research projects
+  * Lecturing undergraduate and graduate classes
+  * Administrative work (research committee, postgraduate committee)
+  """
 
+[[experience]]
+  title = "Adjunct Professor"
+  company = "PUC University"
+  company_url = ""
+  location = "Porto Alegre, Brazil"
+  date_start = "2008-03-01"
+  date_end = "2009-02-28"
+  description = """
+  
+    Responsibilities include:
+  
+  * Lecturing undergraduate classes 
+  """
+
+[[experience]]
+  title = "Adjunct Professor"
+  company = "UNISINOS University"
+  company_url = "http://www.unisinos.br"
+  location = "São Leopoldo, Brazil"
+  date_start = "2004-03-01"
+  date_end = "2008-02-28"
+  description = """
+  Responsibilities include:
+  
+  * Supervising students
+  * Principal investigator of research projects
+  * Lecturing undergraduate and graduate classes
+  * Administrative work (research committee, postgraduate committee)
+  """
 +++

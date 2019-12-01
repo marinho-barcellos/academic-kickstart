@@ -1,0 +1,13 @@
+---
+title: "An end-to-end reliable multicast protocol using polling for scaleability"
+date: 1998-01-01
+publishDate: 2019-12-01T08:31:06.133808Z
+authors: ["M.P. Barcellos", "P.D. Ezhilchelvan"]
+publication_types: ["1"]
+abstract: "Reliable sender-based one-to-many protocols do not scale well$backslash$ndue mainly to implosion caused by excessive rate of feedback packets$backslash$narriving from receivers. We show that this problem can be circumvented$backslash$nby making the sender poll the receivers at carefully planned timing$backslash$ninstants, so that the arrival rate of feedback packets is not large$backslash$nenough to cause implosion. We describe a generic end-to-end protocol$backslash$nwhich incorporates this polling scheme together with error and flow$backslash$ncontrol mechanisms. We analyze the behavior of our protocol using$backslash$nsimulations which indicate that our scheme can be effective in$backslash$nminimizing losses due to implosion, achieving high throughput with low$backslash$nnetwork cost."
+featured: false
+publication: "*IEEE INFOCOM*"
+url_pdf: "http://ieeexplore.ieee.org/document/662931/"
+doi: "10.1109/INFCOM.1998.662931"
+---
+
