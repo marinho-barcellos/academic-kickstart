@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas F Muller | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/lucas-f-muller/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/lucas-f-muller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lucas F Muller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Lucas F Muller</title>
+      <link>https://marinho-barcellos.github.io/authors/lucas-f-muller/</link>
+    </image>
+    
+    <item>
+      <title>Survivor: An enhanced controller placement strategy for improving SDN survivability.</title>
+      <link>https://marinho-barcellos.github.io/publication/globecom-muller-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/globecom-muller-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disconnecting to connect: Understanding optimistic disconnection in BitTorrent</title>
+      <link>https://marinho-barcellos.github.io/publication/p-2-p-lehmann-mab-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/p-2-p-lehmann-mab-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

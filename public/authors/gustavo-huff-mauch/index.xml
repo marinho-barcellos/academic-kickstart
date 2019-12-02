@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gustavo Huff Mauch | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/gustavo-huff-mauch/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/gustavo-huff-mauch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gustavo Huff Mauch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Gustavo Huff Mauch</title>
+      <link>https://marinho-barcellos.github.io/authors/gustavo-huff-mauch/</link>
+    </image>
+    
+    <item>
+      <title>Identity management based on adaptive puzzles to protect P2P systems from Sybil attacks</title>
+      <link>https://marinho-barcellos.github.io/publication/comnet-cordeiro-smbg-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/comnet-cordeiro-smbg-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing P2P systems from Sybil attacks through adaptive identity management</title>
+      <link>https://marinho-barcellos.github.io/publication/cnsm-cordeiro-smb-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/cnsm-cordeiro-smb-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

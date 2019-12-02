@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emilio Leonardi | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/emilio-leonardi/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/emilio-leonardi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emilio Leonardi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Emilio Leonardi</title>
+      <link>https://marinho-barcellos.github.io/authors/emilio-leonardi/</link>
+    </image>
+    
+    <item>
+      <title>Exploiting parallelism in hierarchical content stores for high-speed ICN routers</title>
+      <link>https://marinho-barcellos.github.io/publication/comnet-mansilha-blr-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/comnet-mansilha-blr-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Content Stores in High-Speed ICN Routers</title>
+      <link>https://marinho-barcellos.github.io/publication/icn-mansilha-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/icn-mansilha-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Koyabe | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/martin-koyabe/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/martin-koyabe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Koyabe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Martin Koyabe</title>
+      <link>https://marinho-barcellos.github.io/authors/martin-koyabe/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating high-throughput reliable multicast for grid applications in production networks</title>
+      <link>https://marinho-barcellos.github.io/publication/ccgrid-barcellos-2005-a/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/ccgrid-barcellos-2005-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

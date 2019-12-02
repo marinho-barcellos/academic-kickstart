@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F V Hecht | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/f-v-hecht/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/f-v-hecht/index.xml" rel="self" type="application/rss+xml" />
+    <description>F V Hecht</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>F V Hecht</title>
+      <link>https://marinho-barcellos.github.io/authors/f-v-hecht/</link>
+    </image>
+    
+    <item>
+      <title>Slowing down to speed up: Mitigating collusion attacks in Content Distribution Systems</title>
+      <link>https://marinho-barcellos.github.io/publication/im-santos-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/im-santos-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

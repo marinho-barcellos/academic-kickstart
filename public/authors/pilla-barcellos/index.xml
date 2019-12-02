@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pilla Barcellos | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/pilla-barcellos/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/pilla-barcellos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pilla Barcellos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 1998 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Pilla Barcellos</title>
+      <link>https://marinho-barcellos.github.io/authors/pilla-barcellos/</link>
+    </image>
+    
+    <item>
+      <title>PRMP: A Scaleable Polling-based Reliable Multicast Protocol</title>
+      <link>https://marinho-barcellos.github.io/publication/thesis-barcellos-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/thesis-barcellos-1998/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

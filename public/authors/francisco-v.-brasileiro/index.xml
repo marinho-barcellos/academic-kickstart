@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francisco V. Brasileiro | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/francisco-v.-brasileiro/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/francisco-v.-brasileiro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francisco V. Brasileiro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Francisco V. Brasileiro</title>
+      <link>https://marinho-barcellos.github.io/authors/francisco-v.-brasileiro/</link>
+    </image>
+    
+    <item>
+      <title>TorrentLab: Investigating BitTorrent through simulation and live experiments</title>
+      <link>https://marinho-barcellos.github.io/publication/iscc-barcellos-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/iscc-barcellos-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

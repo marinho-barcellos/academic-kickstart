@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event-based and peer-to-peer infrastructures | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/tags/event-based-and-peer-to-peer-infrastructures/</link>
+      <atom:link href="https://marinho-barcellos.github.io/tags/event-based-and-peer-to-peer-infrastructures/index.xml" rel="self" type="application/rss+xml" />
+    <description>Event-based and peer-to-peer infrastructures</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Event-based and peer-to-peer infrastructures</title>
+      <link>https://marinho-barcellos.github.io/tags/event-based-and-peer-to-peer-infrastructures/</link>
+    </image>
+    
+    <item>
+      <title>Protecting BitTorrent: Design and evaluation of effective countermeasures against DoS attacks</title>
+      <link>https://marinho-barcellos.github.io/publication/srds-barcellos-2008-a/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/srds-barcellos-2008-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

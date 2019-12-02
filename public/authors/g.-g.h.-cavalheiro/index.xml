@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. G.H. Cavalheiro | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/g.-g.h.-cavalheiro/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/g.-g.h.-cavalheiro/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. G.H. Cavalheiro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>G. G.H. Cavalheiro</title>
+      <link>https://marinho-barcellos.github.io/authors/g.-g.h.-cavalheiro/</link>
+    </image>
+    
+    <item>
+      <title>Towards a flexible security framework for peer-to-peer based grid computing</title>
+      <link>https://marinho-barcellos.github.io/publication/mgc-detsch-gbc-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/mgc-detsch-gbc-2004/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

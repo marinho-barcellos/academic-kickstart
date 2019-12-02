@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sidnei Roberto Selzler Franco | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/sidnei-roberto-selzler-franco/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/sidnei-roberto-selzler-franco/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sidnei Roberto Selzler Franco</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Sidnei Roberto Selzler Franco</title>
+      <link>https://marinho-barcellos.github.io/authors/sidnei-roberto-selzler-franco/</link>
+    </image>
+    
+    <item>
+      <title>AGRADC: An Architecture for Autonomous Deployment and Configuration of Grid Computing Applications</title>
+      <link>https://marinho-barcellos.github.io/publication/iscc-gaspary-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/iscc-gaspary-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

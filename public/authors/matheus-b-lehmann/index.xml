@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matheus B Lehmann | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/matheus-b-lehmann/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/matheus-b-lehmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matheus B Lehmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Matheus B Lehmann</title>
+      <link>https://marinho-barcellos.github.io/authors/matheus-b-lehmann/</link>
+    </image>
+    
+    <item>
+      <title>NDNrel: A mechanism based on relations among objects to improve the performance of NDN</title>
+      <link>https://marinho-barcellos.github.io/publication/jnca-antunes-lmgb-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/jnca-antunes-lmgb-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Providing producer mobility support in NDN through proactive data replication</title>
+      <link>https://marinho-barcellos.github.io/publication/noms-lehmann-bm-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/noms-lehmann-bm-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CCNrel: Leveraging relations among objects to improve the performance of CCN</title>
+      <link>https://marinho-barcellos.github.io/publication/im-antunes-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/im-antunes-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring your neighborhood: Comparing connection strategies in swarming networks through evolving graphs</title>
+      <link>https://marinho-barcellos.github.io/publication/p-2-p-lehmann-ab-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/p-2-p-lehmann-ab-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disconnecting to connect: Understanding optimistic disconnection in BitTorrent</title>
+      <link>https://marinho-barcellos.github.io/publication/p-2-p-lehmann-mab-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/p-2-p-lehmann-mab-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing the BitTorrent universe through Telescopes</title>
+      <link>https://marinho-barcellos.github.io/publication/im-mansilha-blmfgb-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/im-mansilha-blmfgb-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

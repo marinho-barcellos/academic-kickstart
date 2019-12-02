@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel S Marcon | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/daniel-s-marcon/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/daniel-s-marcon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel S Marcon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Daniel S Marcon</title>
+      <link>https://marinho-barcellos.github.io/authors/daniel-s-marcon/</link>
+    </image>
+    
+    <item>
+      <title>Achieving minimum bandwidth guarantees and work-conservation in large-scale, SDN-based datacenter networks</title>
+      <link>https://marinho-barcellos.github.io/publication/comnet-marcon-mb-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/comnet-marcon-mb-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Packer: Minimizing multi-resource fragmentation and performance interference in datacenters</title>
+      <link>https://marinho-barcellos.github.io/publication/networking-marcon-b-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/networking-marcon-b-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PredCloud: Providing predictable network performance in large-scale OpenFlow-enabled cloud platforms through trust-based allocation of resources</title>
+      <link>https://marinho-barcellos.github.io/publication/comcom-marcon-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/comcom-marcon-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoNCloud: exploring application affinity to improve utilization and predictability in datacenters</title>
+      <link>https://marinho-barcellos.github.io/publication/icc-marcon-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/icc-marcon-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opportunistic resilience embedding (ORE): Toward cost-efficient resilient virtual networks</title>
+      <link>https://marinho-barcellos.github.io/publication/comnet-oliveira-mbngmb-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/comnet-oliveira-mbngmb-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictor: Providing fine-grained management and predictability in multi-tenant datacenter networks</title>
+      <link>https://marinho-barcellos.github.io/publication/im-marcon-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/im-marcon-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DoS-resilient virtual networks through multipath embedding and opportunistic recovery</title>
+      <link>https://marinho-barcellos.github.io/publication/sac-oliveira-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/sac-oliveira-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workflow specification and scheduling with security constraints in hybrid clouds</title>
+      <link>https://marinho-barcellos.github.io/publication/latincloud-marcon-bdnmfkbgf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/latincloud-marcon-bdnmfkbgf-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alberto E Schaeffer Filho | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/alberto-e-schaeffer-filho/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/alberto-e-schaeffer-filho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alberto E Schaeffer Filho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Alberto E Schaeffer Filho</title>
+      <link>https://marinho-barcellos.github.io/authors/alberto-e-schaeffer-filho/</link>
+    </image>
+    
+    <item>
+      <title>Verification of P4 programs in feasible time using assertions</title>
+      <link>https://marinho-barcellos.github.io/publication/conext-neves-ffb-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/conext-neves-ffb-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

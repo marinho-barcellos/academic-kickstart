@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B Stiller | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/b-stiller/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/b-stiller/index.xml" rel="self" type="application/rss+xml" />
+    <description>B Stiller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>B Stiller</title>
+      <link>https://marinho-barcellos.github.io/authors/b-stiller/</link>
+    </image>
+    
+    <item>
+      <title>Slowing down to speed up: Mitigating collusion attacks in Content Distribution Systems</title>
+      <link>https://marinho-barcellos.github.io/publication/im-santos-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/im-santos-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

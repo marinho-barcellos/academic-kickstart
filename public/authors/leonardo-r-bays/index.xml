@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leonardo R Bays | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/leonardo-r-bays/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/leonardo-r-bays/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leonardo R Bays</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Leonardo R Bays</title>
+      <link>https://marinho-barcellos.github.io/authors/leonardo-r-bays/</link>
+    </image>
+    
+    <item>
+      <title>IoNCloud: exploring application affinity to improve utilization and predictability in datacenters</title>
+      <link>https://marinho-barcellos.github.io/publication/icc-marcon-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/icc-marcon-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DoS-resilient virtual networks through multipath embedding and opportunistic recovery</title>
+      <link>https://marinho-barcellos.github.io/publication/sac-oliveira-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/sac-oliveira-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

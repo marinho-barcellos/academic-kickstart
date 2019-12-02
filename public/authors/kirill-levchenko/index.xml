@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kirill Levchenko | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/kirill-levchenko/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/kirill-levchenko/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kirill Levchenko</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Kirill Levchenko</title>
+      <link>https://marinho-barcellos.github.io/authors/kirill-levchenko/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Property Enforcement in Programmable Data Planes</title>
+      <link>https://marinho-barcellos.github.io/publication/networking-neves-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/networking-neves-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering Bugs in P4 Programs with Assertion-based Verification</title>
+      <link>https://marinho-barcellos.github.io/publication/sosr-freire-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/sosr-freire-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandboxing Data Plane Programs for Fun and Profit</title>
+      <link>https://marinho-barcellos.github.io/publication/sigcomm-neves-lb-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/sigcomm-neves-lb-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

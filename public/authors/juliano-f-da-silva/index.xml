@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juliano F da Silva | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/juliano-f-da-silva/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/juliano-f-da-silva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juliano F da Silva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Juliano F da Silva</title>
+      <link>https://marinho-barcellos.github.io/authors/juliano-f-da-silva/</link>
+    </image>
+    
+    <item>
+      <title>Policy-based access control in peer-to-peer grid systems</title>
+      <link>https://marinho-barcellos.github.io/publication/grid-silva-gbd-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/grid-silva-gbd-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

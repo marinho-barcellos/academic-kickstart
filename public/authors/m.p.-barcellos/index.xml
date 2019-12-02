@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.P. Barcellos | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/m.p.-barcellos/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/m.p.-barcellos/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.P. Barcellos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 1998 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>M.P. Barcellos</title>
+      <link>https://marinho-barcellos.github.io/authors/m.p.-barcellos/</link>
+    </image>
+    
+    <item>
+      <title>An end-to-end reliable multicast protocol using polling for scaleability</title>
+      <link>https://marinho-barcellos.github.io/publication/infocom-barcellos-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/infocom-barcellos-1998/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

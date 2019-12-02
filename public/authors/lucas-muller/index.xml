@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/lucas-muller/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/lucas-muller/index.xml" rel="self" type="application/rss+xml" />
+    <description>marinho.barcellos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>marinho.barcellos</title>
+      <link>https://marinho-barcellos.github.io/authors/lucas-muller/</link>
+    </image>
+    
+    <item>
+      <title>POSTER: Dynam-IX: a Dynamic Interconnection eXchange</title>
+      <link>https://marinho-barcellos.github.io/publication/sigcomm-marcos-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/sigcomm-marcos-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

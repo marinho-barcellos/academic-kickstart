@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hisham H Muhammad | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/hisham-h-muhammad/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/hisham-h-muhammad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hisham H Muhammad</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Hisham H Muhammad</title>
+      <link>https://marinho-barcellos.github.io/authors/hisham-h-muhammad/</link>
+    </image>
+    
+    <item>
+      <title>Beyond network simulators: Fostering novel distributed applications and protocols through extendible design</title>
+      <link>https://marinho-barcellos.github.io/publication/jnca-barcellos-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/jnca-barcellos-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating Group Communication Protocols Through an Object-Oriented Framework</title>
+      <link>https://marinho-barcellos.github.io/publication/anss-muhammad-b-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/anss-muhammad-b-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simmcast: a Simulation Tool for Multicast Protocol Evaluation</title>
+      <link>https://marinho-barcellos.github.io/publication/sbrc-barcellos-2001/</link>
+      <pubDate>Tue, 01 May 2001 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/sbrc-barcellos-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

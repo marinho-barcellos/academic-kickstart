@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcelo Cardoso Bortolozzo | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/marcelo-cardoso-bortolozzo/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/marcelo-cardoso-bortolozzo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcelo Cardoso Bortolozzo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Marcelo Cardoso Bortolozzo</title>
+      <link>https://marinho-barcellos.github.io/authors/marcelo-cardoso-bortolozzo/</link>
+    </image>
+    
+    <item>
+      <title>ASTORIA: A framework for attack simulation and evaluation in smart grids</title>
+      <link>https://marinho-barcellos.github.io/publication/noms-wermann-bsfgb-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/noms-wermann-bsfgb-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

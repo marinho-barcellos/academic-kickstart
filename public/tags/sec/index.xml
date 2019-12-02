@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sec | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/tags/sec/</link>
+      <atom:link href="https://marinho-barcellos.github.io/tags/sec/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sec</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Sec</title>
+      <link>https://marinho-barcellos.github.io/tags/sec/</link>
+    </image>
+    
+    <item>
+      <title>A heuristic-based algorithm for privacy-oriented virtual network embedding</title>
+      <link>https://marinho-barcellos.github.io/publication/noms-richter-bays-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/noms-richter-bays-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trust-based Grouping for Cloud Datacenters: improving security in shared infrastructures</title>
+      <link>https://marinho-barcellos.github.io/publication/networking-marcon-2013/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/networking-marcon-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No more backups: Toward efficient embedding of survivable virtual networks</title>
+      <link>https://marinho-barcellos.github.io/publication/icc-oliveira-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/icc-oliveira-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security-aware optimal resource allocation for virtual network embedding</title>
+      <link>https://marinho-barcellos.github.io/publication/cnsm-bays-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/cnsm-bays-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible security in peer-to-peer applications: Enabling new opportunities beyond file sharing</title>
+      <link>https://marinho-barcellos.github.io/publication/comnet-gaspary-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/comnet-gaspary-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

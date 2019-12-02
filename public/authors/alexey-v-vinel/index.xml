@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexey V Vinel | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/alexey-v-vinel/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/alexey-v-vinel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexey V Vinel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Alexey V Vinel</title>
+      <link>https://marinho-barcellos.github.io/authors/alexey-v-vinel/</link>
+    </image>
+    
+    <item>
+      <title>Effects of colluding Sybil nodes in message falsification attacks for vehicular platooning</title>
+      <link>https://marinho-barcellos.github.io/publication/vnc-boeira-bfva-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/vnc-boeira-bfva-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the impact of sybil attacks in cooperative driving scenarios</title>
+      <link>https://marinho-barcellos.github.io/publication/networking-boeira-bfva-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/networking-boeira-bfva-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

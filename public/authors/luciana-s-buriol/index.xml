@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luciana S Buriol | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/luciana-s-buriol/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/luciana-s-buriol/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luciana S Buriol</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Luciana S Buriol</title>
+      <link>https://marinho-barcellos.github.io/authors/luciana-s-buriol/</link>
+    </image>
+    
+    <item>
+      <title>A toolset for efficient privacy-oriented virtual network embedding and its instantiation on SDN/OpenFlow-based substrates</title>
+      <link>https://marinho-barcellos.github.io/publication/comcom-bays-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/comcom-bays-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DoS-resilient virtual networks through multipath embedding and opportunistic recovery</title>
+      <link>https://marinho-barcellos.github.io/publication/sac-oliveira-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/sac-oliveira-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

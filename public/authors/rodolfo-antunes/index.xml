@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/rodolfo-antunes/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/rodolfo-antunes/index.xml" rel="self" type="application/rss+xml" />
+    <description>marinho.barcellos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>marinho.barcellos</title>
+      <link>https://marinho-barcellos.github.io/authors/rodolfo-antunes/</link>
+    </image>
+    
+  </channel>
+</rss>

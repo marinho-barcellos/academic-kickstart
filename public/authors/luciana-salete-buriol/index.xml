@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luciana Salete Buriol | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/luciana-salete-buriol/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/luciana-salete-buriol/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luciana Salete Buriol</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Luciana Salete Buriol</title>
+      <link>https://marinho-barcellos.github.io/authors/luciana-salete-buriol/</link>
+    </image>
+    
+    <item>
+      <title>How physical network topologies affect virtual network embedding quality: A characterization study based on ISP and datacenter networks</title>
+      <link>https://marinho-barcellos.github.io/publication/jnca-luizelli-bbbg-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/jnca-luizelli-bbbg-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piecing Together the NFV Provisioning Puzzle: Efficient Placement and Chaining of Virtual Network Functions</title>
+      <link>https://marinho-barcellos.github.io/publication/im-luizelli-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/im-luizelli-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trust-based Grouping for Cloud Datacenters: improving security in shared infrastructures</title>
+      <link>https://marinho-barcellos.github.io/publication/networking-marcon-2013/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/networking-marcon-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security-aware optimal resource allocation for virtual network embedding</title>
+      <link>https://marinho-barcellos.github.io/publication/cnsm-bays-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/cnsm-bays-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

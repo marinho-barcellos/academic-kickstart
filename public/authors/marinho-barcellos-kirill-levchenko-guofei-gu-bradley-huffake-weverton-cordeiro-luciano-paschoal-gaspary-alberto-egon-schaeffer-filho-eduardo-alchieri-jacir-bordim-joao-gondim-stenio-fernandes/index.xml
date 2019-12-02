@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marinho Barcellos, Kirill Levchenko, Guofei Gu, Bradley Huffake, Weverton Cordeiro, Luciano Paschoal Gaspary, Alberto Egon Schaeffer-Filho, Eduardo Alchieri, Jacir Bordim, João Gondim, Stenio Fernandes | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/marinho-barcellos-kirill-levchenko-guofei-gu-bradley-huffake-weverton-cordeiro-luciano-paschoal-gaspary-alberto-egon-schaeffer-filho-eduardo-alchieri-jacir-bordim-joao-gondim-stenio-fernandes/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/marinho-barcellos-kirill-levchenko-guofei-gu-bradley-huffake-weverton-cordeiro-luciano-paschoal-gaspary-alberto-egon-schaeffer-filho-eduardo-alchieri-jacir-bordim-joao-gondim-stenio-fernandes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marinho Barcellos, Kirill Levchenko, Guofei Gu, Bradley Huffake, Weverton Cordeiro, Luciano Paschoal Gaspary, Alberto Egon Schaeffer-Filho, Eduardo Alchieri, Jacir Bordim, João Gondim, Stenio Fernandes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 01:45:06 +1300</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Marinho Barcellos, Kirill Levchenko, Guofei Gu, Bradley Huffake, Weverton Cordeiro, Luciano Paschoal Gaspary, Alberto Egon Schaeffer-Filho, Eduardo Alchieri, Jacir Bordim, João Gondim, Stenio Fernandes</title>
+      <link>https://marinho-barcellos.github.io/authors/marinho-barcellos-kirill-levchenko-guofei-gu-bradley-huffake-weverton-cordeiro-luciano-paschoal-gaspary-alberto-egon-schaeffer-filho-eduardo-alchieri-jacir-bordim-joao-gondim-stenio-fernandes/</link>
+    </image>
+    
+    <item>
+      <title>P4sec -- Securing Networks in the Programmable Data Plane Era</title>
+      <link>https://marinho-barcellos.github.io/project/p4sec/</link>
+      <pubDate>Sun, 01 Dec 2019 01:45:06 +1300</pubDate>
+      <guid>https://marinho-barcellos.github.io/project/p4sec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

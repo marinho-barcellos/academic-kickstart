@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marinho P Barcellos | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/marinho-p-barcellos/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/marinho-p-barcellos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marinho P Barcellos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Marinho P Barcellos</title>
+      <link>https://marinho-barcellos.github.io/authors/marinho-p-barcellos/</link>
+    </image>
+    
+    <item>
+      <title>Mitigating Position Falsification Attacks in Vehicular Platooning</title>
+      <link>https://marinho-barcellos.github.io/publication/vnc-boeira-ab-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/vnc-boeira-ab-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picking a Partner: A Fair Blockchain Based Scoring Protocol for Autonomous Systems</title>
+      <link>https://marinho-barcellos.github.io/publication/anrw-alowayed-cmcb-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/anrw-alowayed-cmcb-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of P4 programs in feasible time using assertions</title>
+      <link>https://marinho-barcellos.github.io/publication/conext-neves-ffb-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/conext-neves-ffb-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vouch: A Secure Proof-of-Location Scheme for VANETs</title>
+      <link>https://marinho-barcellos.github.io/publication/mswim-boeira-ab-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/mswim-boeira-ab-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Achieving minimum bandwidth guarantees and work-conservation in large-scale, SDN-based datacenter networks</title>
+      <link>https://marinho-barcellos.github.io/publication/comnet-marcon-mb-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/comnet-marcon-mb-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of colluding Sybil nodes in message falsification attacks for vehicular platooning</title>
+      <link>https://marinho-barcellos.github.io/publication/vnc-boeira-bfva-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/vnc-boeira-bfva-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting parallelism in hierarchical content stores for high-speed ICN routers</title>
+      <link>https://marinho-barcellos.github.io/publication/comnet-mansilha-blr-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/comnet-mansilha-blr-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NDNrel: A mechanism based on relations among objects to improve the performance of NDN</title>
+      <link>https://marinho-barcellos.github.io/publication/jnca-antunes-lmgb-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/jnca-antunes-lmgb-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the impact of sybil attacks in cooperative driving scenarios</title>
+      <link>https://marinho-barcellos.github.io/publication/networking-boeira-bfva-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/networking-boeira-bfva-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Service Function Chain Composition in Network Functions Virtualization</title>
+      <link>https://marinho-barcellos.github.io/publication/aims-ocampo-ginblgbg-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/aims-ocampo-ginblgbg-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Packer: Minimizing multi-resource fragmentation and performance interference in datacenters</title>
+      <link>https://marinho-barcellos.github.io/publication/networking-marcon-b-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/networking-marcon-b-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandboxing Data Plane Programs for Fun and Profit</title>
+      <link>https://marinho-barcellos.github.io/publication/sigcomm-neves-lb-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/sigcomm-neves-lb-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Providing producer mobility support in NDN through proactive data replication</title>
+      <link>https://marinho-barcellos.github.io/publication/noms-lehmann-bm-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/noms-lehmann-bm-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making puzzles green and useful for adaptive identity management in large-scale distributed systems</title>
+      <link>https://marinho-barcellos.github.io/publication/comnet-da-costa-cordeiro-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/comnet-da-costa-cordeiro-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge-centric Computing: Vision and Challenges</title>
+      <link>https://marinho-barcellos.github.io/publication/ccr-lopez-medhibfr-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/ccr-lopez-medhibfr-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opportunistic resilience embedding (ORE): Toward cost-efficient resilient virtual networks</title>
+      <link>https://marinho-barcellos.github.io/publication/comnet-oliveira-mbngmb-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/comnet-oliveira-mbngmb-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual network security: threats, countermeasures, and challenges</title>
+      <link>https://marinho-barcellos.github.io/publication/jiisa-bays-obgm-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/jiisa-bays-obgm-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slowing down to speed up: Protecting users against massive attacks in content distribution systems</title>
+      <link>https://marinho-barcellos.github.io/publication/noms-santos-bg-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/noms-santos-bg-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring your neighborhood: Comparing connection strategies in swarming networks through evolving graphs</title>
+      <link>https://marinho-barcellos.github.io/publication/p-2-p-lehmann-ab-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/p-2-p-lehmann-ab-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workflow specification and scheduling with security constraints in hybrid clouds</title>
+      <link>https://marinho-barcellos.github.io/publication/latincloud-marcon-bdnmfkbgf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/latincloud-marcon-bdnmfkbgf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing dissemination of illegal copies of content through monitoring of BitTorrent networks</title>
+      <link>https://marinho-barcellos.github.io/publication/noms-schmidt-abg-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/noms-schmidt-abg-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denial-of-service attacks and countermeasures on BitTorrent</title>
+      <link>https://marinho-barcellos.github.io/publication/comnet-lehmann-sgb-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/comnet-lehmann-sgb-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disconnecting to connect: Understanding optimistic disconnection in BitTorrent</title>
+      <link>https://marinho-barcellos.github.io/publication/p-2-p-lehmann-mab-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/p-2-p-lehmann-mab-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identity management based on adaptive puzzles to protect P2P systems from Sybil attacks</title>
+      <link>https://marinho-barcellos.github.io/publication/comnet-cordeiro-smbg-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/comnet-cordeiro-smbg-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A conservative strategy to protect P2P file sharing systems from pollution attacks</title>
+      <link>https://marinho-barcellos.github.io/publication/ccpe-barcellos-gca-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/ccpe-barcellos-gca-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenging the feasibility of authentication mechanisms for P2P live streaming</title>
+      <link>https://marinho-barcellos.github.io/publication/lanc-coelho-pabjg-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/lanc-coelho-pabjg-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Funnel: Choking Polluters in BitTorrent File Sharing Communities</title>
+      <link>https://marinho-barcellos.github.io/publication/tnsm-santos-cgb-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/tnsm-santos-cgb-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing the BitTorrent universe through Telescopes</title>
+      <link>https://marinho-barcellos.github.io/publication/im-mansilha-blmfgb-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/im-mansilha-blmfgb-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing P2P systems from Sybil attacks through adaptive identity management</title>
+      <link>https://marinho-barcellos.github.io/publication/cnsm-cordeiro-smb-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/cnsm-cordeiro-smb-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choking polluters in BitTorrent file sharing communities</title>
+      <link>https://marinho-barcellos.github.io/publication/noms-santos-cgb-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/noms-santos-cgb-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Security Configuration &amp; Deployment in Peer-to-Peer Applications</title>
+      <link>https://marinho-barcellos.github.io/publication/noms-detsch-gbs-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/noms-detsch-gbs-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy-based access control in peer-to-peer grid systems</title>
+      <link>https://marinho-barcellos.github.io/publication/grid-silva-gbd-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/grid-silva-gbd-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating Group Communication Protocols Through an Object-Oriented Framework</title>
+      <link>https://marinho-barcellos.github.io/publication/anss-muhammad-b-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/anss-muhammad-b-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

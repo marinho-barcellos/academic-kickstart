@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hanna Kavalionak | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/hanna-kavalionak/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/hanna-kavalionak/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hanna Kavalionak</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Hanna Kavalionak</title>
+      <link>https://marinho-barcellos.github.io/authors/hanna-kavalionak/</link>
+    </image>
+    
+    <item>
+      <title>Making puzzles green and useful for adaptive identity management in large-scale distributed systems</title>
+      <link>https://marinho-barcellos.github.io/publication/comnet-da-costa-cordeiro-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/comnet-da-costa-cordeiro-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

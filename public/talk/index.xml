@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/talk/</link>
+      <atom:link href="https://marinho-barcellos.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://marinho-barcellos.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Using IXPs to Measure Improvements of Source Address Validation Filtering in Inter-Domain Traffic</title>
+      <link>https://marinho-barcellos.github.io/talk/aims2018-spoofing/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/talk/aims2018-spoofing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Overview of the Brazilian Academic Security Landscape</title>
+      <link>https://marinho-barcellos.github.io/talk/us-br-2015-brazilian-security-landscape/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/talk/us-br-2015-brazilian-security-landscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Problems, Global Solutions: prospecting opportunities for joint research on Computer Security</title>
+      <link>https://marinho-barcellos.github.io/talk/us-br-2015-global-problems/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/talk/us-br-2015-global-problems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

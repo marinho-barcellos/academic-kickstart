@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marinho Barcellos | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/marinho-barcellos/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/marinho-barcellos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marinho Barcellos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Marinho Barcellos</title>
+      <link>https://marinho-barcellos.github.io/authors/marinho-barcellos/</link>
+    </image>
+    
+    <item>
+      <title>Decentralized proof of location in vehicular Ad Hoc networks</title>
+      <link>https://marinho-barcellos.github.io/publication/comcom-boeira-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/comcom-boeira-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Property Enforcement in Programmable Data Planes</title>
+      <link>https://marinho-barcellos.github.io/publication/networking-neves-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/networking-neves-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using IXPs to Measure Improvements of Source Address Validation Filtering in Inter-Domain Traffic</title>
+      <link>https://marinho-barcellos.github.io/talk/aims2018-spoofing/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/talk/aims2018-spoofing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POSTER: Dynam-IX: a Dynamic Interconnection eXchange</title>
+      <link>https://marinho-barcellos.github.io/publication/sigcomm-marcos-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/sigcomm-marcos-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering Bugs in P4 Programs with Assertion-based Verification</title>
+      <link>https://marinho-barcellos.github.io/publication/sosr-freire-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/sosr-freire-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster: Finding vulnerabilities in P4 programs with assertion-based verification</title>
+      <link>https://marinho-barcellos.github.io/publication/ccs-freire-nfb-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/ccs-freire-nfb-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASTORIA: A framework for attack simulation and evaluation in smart grids</title>
+      <link>https://marinho-barcellos.github.io/publication/noms-wermann-bsfgb-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/noms-wermann-bsfgb-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Overview of the Brazilian Academic Security Landscape</title>
+      <link>https://marinho-barcellos.github.io/talk/us-br-2015-brazilian-security-landscape/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/talk/us-br-2015-brazilian-security-landscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Problems, Global Solutions: prospecting opportunities for joint research on Computer Security</title>
+      <link>https://marinho-barcellos.github.io/talk/us-br-2015-global-problems/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/talk/us-br-2015-global-problems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

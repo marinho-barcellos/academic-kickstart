@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Stefani Marcon | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/daniel-stefani-marcon/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/daniel-stefani-marcon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Stefani Marcon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Daniel Stefani Marcon</title>
+      <link>https://marinho-barcellos.github.io/authors/daniel-stefani-marcon/</link>
+    </image>
+    
+    <item>
+      <title>Trust-based Grouping for Cloud Datacenters: improving security in shared infrastructures</title>
+      <link>https://marinho-barcellos.github.io/publication/networking-marcon-2013/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/networking-marcon-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maziar Nekovee | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/maziar-nekovee/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/maziar-nekovee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maziar Nekovee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Maziar Nekovee</title>
+      <link>https://marinho-barcellos.github.io/authors/maziar-nekovee/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating high-throughput reliable multicast for grid applications in production networks</title>
+      <link>https://marinho-barcellos.github.io/publication/ccgrid-barcellos-2005-a/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/ccgrid-barcellos-2005-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Performance Reliable Multicasting for Grid Applications</title>
+      <link>https://marinho-barcellos.github.io/publication/grid-barcellos-2004/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/grid-barcellos-2004/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

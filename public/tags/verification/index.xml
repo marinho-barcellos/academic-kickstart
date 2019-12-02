@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verification | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/tags/verification/</link>
+      <atom:link href="https://marinho-barcellos.github.io/tags/verification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Verification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Verification</title>
+      <link>https://marinho-barcellos.github.io/tags/verification/</link>
+    </image>
+    
+    <item>
+      <title>Uncovering Bugs in P4 Programs with Assertion-based Verification</title>
+      <link>https://marinho-barcellos.github.io/publication/sosr-freire-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/sosr-freire-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster: Finding vulnerabilities in P4 programs with assertion-based verification</title>
+      <link>https://marinho-barcellos.github.io/publication/ccs-freire-nfb-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/ccs-freire-nfb-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juliver Gil-Herrera | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/juliver-gil-herrera/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/juliver-gil-herrera/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juliver Gil-Herrera</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Juliver Gil-Herrera</title>
+      <link>https://marinho-barcellos.github.io/authors/juliver-gil-herrera/</link>
+    </image>
+    
+    <item>
+      <title>Optimal Service Function Chain Composition in Network Functions Virtualization</title>
+      <link>https://marinho-barcellos.github.io/publication/aims-ocampo-ginblgbg-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/aims-ocampo-ginblgbg-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

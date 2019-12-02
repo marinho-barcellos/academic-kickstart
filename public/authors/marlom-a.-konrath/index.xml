@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marlom A. Konrath | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/marlom-a.-konrath/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/marlom-a.-konrath/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marlom A. Konrath</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Marlom A. Konrath</title>
+      <link>https://marinho-barcellos.github.io/authors/marlom-a.-konrath/</link>
+    </image>
+    
+    <item>
+      <title>Attacking a swarm with a band of liars: Evaluating the impact of attacks on BitTorrent</title>
+      <link>https://marinho-barcellos.github.io/publication/p-2-p-konrath-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/p-2-p-konrath-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

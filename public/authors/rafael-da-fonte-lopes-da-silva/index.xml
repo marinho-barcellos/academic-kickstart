@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafael da Fonte Lopes da Silva | marinho.barcellos</title>
+    <link>https://marinho-barcellos.github.io/authors/rafael-da-fonte-lopes-da-silva/</link>
+      <atom:link href="https://marinho-barcellos.github.io/authors/rafael-da-fonte-lopes-da-silva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rafael da Fonte Lopes da Silva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <title>Rafael da Fonte Lopes da Silva</title>
+      <link>https://marinho-barcellos.github.io/authors/rafael-da-fonte-lopes-da-silva/</link>
+    </image>
+    
+    <item>
+      <title>Off the Wire Control: Improving the Control Plane Resilience through Cellular Networks</title>
+      <link>https://marinho-barcellos.github.io/publication/icc-petry-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/icc-petry-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
