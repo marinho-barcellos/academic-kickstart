@@ -5,18 +5,18 @@
     <link>https://marinho-barcellos.github.io/project/</link>
       <atom:link href="https://marinho-barcellos.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 01:45:06 +1300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <url>https://marinho-barcellos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://marinho-barcellos.github.io/project/</link>
     </image>
     
     <item>
       <title>P4sec -- Securing Networks in the Programmable Data Plane Era</title>
-      <link>https://marinho-barcellos.github.io/project/p4sec/</link>
-      <pubDate>Sun, 01 Dec 2019 01:45:06 +1300</pubDate>
-      <guid>https://marinho-barcellos.github.io/project/p4sec/</guid>
+      <link>https://marinho-barcellos.github.io/project/p4sec-rnp-nsf/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/project/p4sec-rnp-nsf/</guid>
       <description></description>
     </item>
     

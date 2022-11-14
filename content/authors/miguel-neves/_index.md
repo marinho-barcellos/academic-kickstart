@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD 2015-...
+role: UFRGS PhD 2015-2020, now a post-doc at [Dalhousie University](https://www.dal.ca/)
 
 # Organizations/Affiliations
 organizations:
 - name: "INF/UFRGS"
-  url: "http://www.inf.ufrgs.br/~mcneves/"
+  url: "https://mcnevesinf.github.io"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include computer networks and cybersecurity.
@@ -25,7 +25,11 @@ organizations:
 user_groups:
 #- Principal Investigators
 #- Researchers
-- PhD Students
+#- PhD Students
 #- MSc Students
 #- Visitors
+- Alumni
+
 ---
+
+"I am a PhD student in Computer Science at the Institute of Informatics of the Federal University of Rio Grande do Sul (UFRGS). My supervisor is Prof. Marinho Barcellos. Earlier I visited UC San Diego under the supervision of Dr. Kirill Levchenko. I got a B.Eng. degree in Computer Engineering in 2014 from UFRGS."

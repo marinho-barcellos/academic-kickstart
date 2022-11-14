@@ -1,30 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Programmable Data Planes | marinho.barcellos</title>
+    <title>programmable data planes | marinho.barcellos</title>
     <link>https://marinho-barcellos.github.io/tags/programmable-data-planes/</link>
       <atom:link href="https://marinho-barcellos.github.io/tags/programmable-data-planes/index.xml" rel="self" type="application/rss+xml" />
-    <description>Programmable Data Planes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <description>programmable data planes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
-      <title>Programmable Data Planes</title>
+      <url>https://marinho-barcellos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>programmable data planes</title>
       <link>https://marinho-barcellos.github.io/tags/programmable-data-planes/</link>
     </image>
     
     <item>
-      <title>Uncovering Bugs in P4 Programs with Assertion-based Verification</title>
-      <link>https://marinho-barcellos.github.io/publication/sosr-freire-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/sosr-freire-2018/</guid>
+      <title>Dynamic Property Enforcement in Programmable Data Planes</title>
+      <link>https://marinho-barcellos.github.io/publication/2021-ton-neves/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2021-ton-neves/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Poster: Finding vulnerabilities in P4 programs with assertion-based verification</title>
-      <link>https://marinho-barcellos.github.io/publication/ccs-freire-nfb-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/ccs-freire-nfb-2017/</guid>
+      <title>P4sec -- Securing Networks in the Programmable Data Plane Era</title>
+      <link>https://marinho-barcellos.github.io/_projects/p4sec-rnp-nsf/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/_projects/p4sec-rnp-nsf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Property Enforcement in Programmable Data Planes</title>
+      <link>https://marinho-barcellos.github.io/publication/2019-networking-neves/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2019-networking-neves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of P4 programs in feasible time using assertions</title>
+      <link>https://marinho-barcellos.github.io/publication/2018-conext-neves/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2018-conext-neves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering Bugs in P4 Programs with Assertion-based Verification</title>
+      <link>https://marinho-barcellos.github.io/publication/2018-sosr-freire/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2018-sosr-freire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POSTER: Finding vulnerabilities in P4 programs with assertion-based verification</title>
+      <link>https://marinho-barcellos.github.io/publication/2017-ccs-poster-freire/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2017-ccs-poster-freire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandboxing Data Plane Programs for Fun and Profit</title>
+      <link>https://marinho-barcellos.github.io/publication/2017-sigcommposter-neves/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2017-sigcommposter-neves/</guid>
       <description></description>
     </item>
     

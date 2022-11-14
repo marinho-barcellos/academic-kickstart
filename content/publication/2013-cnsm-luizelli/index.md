@@ -1,0 +1,13 @@
+---
+title: "Characterizing the impact of network substrate topologies on virtual network embedding"
+date: 2013-01-01
+publishDate: 2019-12-10T00:03:23.696877Z
+authors: ["Marcelo Luizelli", "Leonardo Bays", "Luciana S Buriol", "Marinho Barcellos", "Luciano P Gaspary"]
+publication_types: ["1"]
+abstract: "Network virtualization is a mechanism that allows the coexistence of multiple virtual networks on top of a single physical substrate. One of the research challenges addressed recently in the literature is the efficient mapping of virtual resources on physical infrastructures. Although this challenge has received considerable attention, state-of-the-art approaches present, in general, a high rejection rate, i.e., the ratio between the number of denied virtual network requests and the total amount of requests is considerably high. In this work, we investigate the relationship between the quality of virtual network mappings and the topological structures of the underlying substrates. Exact solutions of an online embedding model are evaluated under different classes of network topologies. The obtained results demonstrate that the employment of physical topologies that contain regions with high connectivity significantly contributes to the reduction of rejection rates and, therefore, to improved resource usage. View full abstract"
+featured: false
+publication: "*IEEE CNSM*"
+tags: ["VNE"]
+url_pdf: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6727808&matchBoolean%253Dtrue%2526rowsPerPage%253D30%2526searchField%253DSearch_All%2526queryText%253D%2528p_Title%253A%2522Characterizing+the+Impact+of+Network+Substrate+Topologies+on+Virtual"
+---
+

@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD 2016-2019
+role: UFRGS PhD 2016-2019, now an [Adjunct Professor at FURG University](https://pedrobmarcos.github.io/)
 
 # Organizations/Affiliations
-organizations:
-- name: "Federal University of Rio Grande (FURG)"
-  url: "https://pedrobmarcos.github.io/"
+# organizations:
+# - name: "Federal University of Rio Grande (FURG)"
+#   url: "https://pedrobmarcos.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include computer networks and cybersecurity.
@@ -28,3 +28,7 @@ user_groups:
 #- MSc Students
 - Alumni
 ---
+
+Assistant Professor @ FURG/Brazil
+
+"I am an Assistant Professor at C3 - Center for Computational Science, at FURG - Federal University of Rio Grande. I got a PhD in Computer Science at UFRGS (2019) working under the supervision of professors Marinho Barcellos and Marco Canini. I have a master degree in Computer Science by UFRGS (2013), under the supervision of professor Claudio Geyer, and a bachelor degree in Computer Engineering by FURG (2010)."

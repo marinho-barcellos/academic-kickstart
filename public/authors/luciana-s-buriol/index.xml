@@ -5,26 +5,90 @@
     <link>https://marinho-barcellos.github.io/authors/luciana-s-buriol/</link>
       <atom:link href="https://marinho-barcellos.github.io/authors/luciana-s-buriol/index.xml" rel="self" type="application/rss+xml" />
     <description>Luciana S Buriol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <url>https://marinho-barcellos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Luciana S Buriol</title>
       <link>https://marinho-barcellos.github.io/authors/luciana-s-buriol/</link>
     </image>
     
     <item>
+      <title>How physical network topologies affect virtual network embedding quality: A characterization study based on ISP and datacenter networks</title>
+      <link>https://marinho-barcellos.github.io/publication/2016-jnca-luizell/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2016-jnca-luizell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A toolset for efficient privacy-oriented virtual network embedding and its instantiation on SDN/OpenFlow-based substrates</title>
-      <link>https://marinho-barcellos.github.io/publication/comcom-bays-2016/</link>
+      <link>https://marinho-barcellos.github.io/publication/2016-comcom-bays/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/comcom-bays-2016/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2016-comcom-bays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piecing Together the NFV Provisioning Puzzle: Efficient Placement and Chaining of Virtual Network Functions</title>
+      <link>https://marinho-barcellos.github.io/publication/2015-im-luizelli/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2015-im-luizelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A heuristic-based algorithm for privacy-oriented virtual network embedding</title>
+      <link>https://marinho-barcellos.github.io/publication/2014-noms-bays/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2014-noms-bays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconnecting Partitions on Physical Infrastructures: Towards an Expansion Strategy for Efficient Virtual Network Embedding</title>
+      <link>https://marinho-barcellos.github.io/publication/2014-sbrc-luizelli/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2014-sbrc-luizelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trust-based Grouping for Cloud Datacenters: improving security in shared infrastructures</title>
+      <link>https://marinho-barcellos.github.io/publication/2013-ifipnetworking-marcon/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2013-ifipnetworking-marcon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DoS-resilient virtual networks through multipath embedding and opportunistic recovery</title>
-      <link>https://marinho-barcellos.github.io/publication/sac-oliveira-2013/</link>
+      <link>https://marinho-barcellos.github.io/publication/2013-sac-oliveira/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/sac-oliveira-2013/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2013-sac-oliveira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing the impact of network substrate topologies on virtual network embedding</title>
+      <link>https://marinho-barcellos.github.io/publication/2013-cnsm-luizelli/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2013-cnsm-luizelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No more backups: Toward efficient embedding of survivable virtual networks</title>
+      <link>https://marinho-barcellos.github.io/publication/2013-a-icc-oliveira/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2013-a-icc-oliveira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security-aware optimal resource allocation for virtual network embedding</title>
+      <link>https://marinho-barcellos.github.io/publication/2012-cnsm-bays/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2012-cnsm-bays/</guid>
       <description></description>
     </item>
     

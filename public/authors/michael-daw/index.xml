@@ -7,24 +7,32 @@
     <description>Michael Daw</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2005 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <url>https://marinho-barcellos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Michael Daw</title>
       <link>https://marinho-barcellos.github.io/authors/michael-daw/</link>
     </image>
     
     <item>
       <title>Evaluating high-throughput reliable multicast for grid applications in production networks</title>
-      <link>https://marinho-barcellos.github.io/publication/ccgrid-barcellos-2005-a/</link>
+      <link>https://marinho-barcellos.github.io/publication/2005-a-ccgrid-barcellos/</link>
       <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/ccgrid-barcellos-2005-a/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2005-a-ccgrid-barcellos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable multicast for the Grid: a case study in experimental computer science</title>
+      <link>https://marinho-barcellos.github.io/publication/2005-philosophical-nekovee/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2005-philosophical-nekovee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-Performance Reliable Multicasting for Grid Applications</title>
-      <link>https://marinho-barcellos.github.io/publication/grid-barcellos-2004/</link>
+      <link>https://marinho-barcellos.github.io/publication/2004-grid-barcellos/</link>
       <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/grid-barcellos-2004/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2004-grid-barcellos/</guid>
       <description></description>
     </item>
     

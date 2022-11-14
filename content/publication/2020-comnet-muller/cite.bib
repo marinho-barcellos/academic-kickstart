@@ -1,0 +1,17 @@
+
+@article{muller_spoofed_2020,
+	title = {Spoofed traffic inference at {IXPs}: {Challenges}, methods and analysis},
+	volume = {182},
+	issn = {1389-1286},
+	shorttitle = {Spoofed traffic inference at {IXPs}},
+	url = {http://www.sciencedirect.com/science/article/pii/S1389128620311336},
+	doi = {10.1016/j.comnet.2020.107452},
+	abstract = {Ascertaining that a network will forward spoofed traffic usually requires an active probing vantage point in that network, effectively preventing a comprehensive view of this global Internet vulnerability. Recently, researchers have proposed using Internet Exchange Points (IXPs) as observatories to detect spoofed packets, by leveraging Autonomous System (AS) topology knowledge extracted from Border Gateway Protocol (BGP) data to infer which source addresses should legitimately appear across parts of the IXP switch fabric. We demonstrate that the existing literature does not capture several fundamental challenges to this approach, including noise in BGP data sources, heuristic AS relationship inference, and idiosyncrasies in IXP interconnectivity fabrics. We propose Spoofer-IX, a novel method to navigate these challenges, leveraging customer cone semantics of AS relationships to guide precise classification of inter-domain traffic as in-cone, out-of-cone (spoofed), unverifiable, bogon, and unassigned. We apply our method in three distinct periods to two IXPs, with 200+ and 1,600+ members each, and find an upper bound volume of out-of-cone traffic to be more than an order of magnitude less than the previous method inferred on the same data, revealing the practical importance of customer cone semantics in such analysis. We observed no significant improvement in deployment of Source Address Validation (SAV) in networks using the mid-size IXP between 2017 and 2019. In hopes that our methods and tools generalize to use by other IXPs who want to avoid use of their infrastructure for launching spoofed-source DoS attacks, we explore the feasibility of scaling the system to larger and more diverse IXP infrastructures. To promote this goal, and broad replicability of our results, we make the source code of Spoofer-IX publicly available.},
+	language = {en},
+	urldate = {2020-08-12},
+	journal = {COMNET},
+	author = {Müller, Lucas and Luckie, Matthew and Huffaker, Bradley and claffy, kc and Barcellos, Marinho},
+	month = dec,
+	year = {2020},
+	pages = {107452},
+}

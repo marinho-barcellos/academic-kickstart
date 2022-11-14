@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD 2019-...
+role: UFRGS PhD 2019-...
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,6 @@ user_groups:
 - PhD Students
 #- Visitors
 ---
+"I am Ph.D. student at the Informatics Institute of UFRGS - Federal University of Rio Grande do Sul. I am working under the supervision of Prof. Marinho Barcellos. I have a bachelor degree in Computer Science by UFRGS (2019).
 
-Marinho Barcellos is a professor at the School of Computer and Mathematical Sciences at University of Waikato. His research interests include Internet measurements, programmable data planes and network security.  
-
-He was an Associate Professor at INF/UFRGS between 2010 and 2019 and recently moved to the University of Waikato.
+My research interests are networked systems, mainly focusing on Internet measurements, Internet cartography, and network analytics. In the past, I have worked with Software Defined Networking (SDN) and data-center networks. I am currently investigating the main connectivity characteristics and evolution of the Brazilian IXP ecosystem, focusing on identifying, quantifying, and analyzing the adoption and impact of remote peerings in different IXPs over the country. My plans for future research include investigating ways to evolve the Internet cartography of peering interconnections leveraging the opportunities enabled by IXPs, increasing knowledge about network redundancy and coverage."

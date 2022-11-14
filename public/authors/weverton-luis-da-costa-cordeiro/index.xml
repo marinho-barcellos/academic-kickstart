@@ -5,90 +5,82 @@
     <link>https://marinho-barcellos.github.io/authors/weverton-luis-da-costa-cordeiro/</link>
       <atom:link href="https://marinho-barcellos.github.io/authors/weverton-luis-da-costa-cordeiro/index.xml" rel="self" type="application/rss+xml" />
     <description>Weverton Luis da Costa Cordeiro</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <url>https://marinho-barcellos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Weverton Luis da Costa Cordeiro</title>
       <link>https://marinho-barcellos.github.io/authors/weverton-luis-da-costa-cordeiro/</link>
     </image>
     
     <item>
-      <title>Making puzzles green and useful for adaptive identity management in large-scale distributed systems</title>
-      <link>https://marinho-barcellos.github.io/publication/comnet-da-costa-cordeiro-2015/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/comnet-da-costa-cordeiro-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Beyond pollution and taste: A tag-based strategy to increase download quality in P2P file sharing systems</title>
-      <link>https://marinho-barcellos.github.io/publication/comcom-santos-cgb-2013/</link>
+      <link>https://marinho-barcellos.github.io/publication/2013-comcom-santos/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/comcom-santos-cgb-2013/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2013-comcom-santos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slowing down to speed up: Mitigating collusion attacks in Content Distribution Systems</title>
-      <link>https://marinho-barcellos.github.io/publication/im-santos-2013/</link>
+      <link>https://marinho-barcellos.github.io/publication/2013-im-santos/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/im-santos-2013/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2013-im-santos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Make it Green and Useful: Reshaping Puzzles for Identity Management in Large-scale Distributed Systems</title>
-      <link>https://marinho-barcellos.github.io/publication/im-da-costa-cordeiro-2012/</link>
+      <link>https://marinho-barcellos.github.io/publication/2012-im-cordeiro/</link>
       <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/im-da-costa-cordeiro-2012/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2012-im-cordeiro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identity management based on adaptive puzzles to protect P2P systems from Sybil attacks</title>
-      <link>https://marinho-barcellos.github.io/publication/comnet-cordeiro-smbg-2012/</link>
+      <link>https://marinho-barcellos.github.io/publication/2012-comnet-cordeiro/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/comnet-cordeiro-smbg-2012/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2012-comnet-cordeiro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A conservative strategy to protect P2P file sharing systems from pollution attacks</title>
-      <link>https://marinho-barcellos.github.io/publication/ccpe-barcellos-gca-2011/</link>
+      <link>https://marinho-barcellos.github.io/publication/2011-concurrencype-barcellos/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/ccpe-barcellos-gca-2011/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2011-concurrencype-barcellos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Funnel: Choking Polluters in BitTorrent File Sharing Communities</title>
-      <link>https://marinho-barcellos.github.io/publication/tnsm-santos-cgb-2011/</link>
+      <link>https://marinho-barcellos.github.io/publication/2011-tnsm-santos/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/tnsm-santos-cgb-2011/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2011-tnsm-santos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Securing P2P systems from Sybil attacks through adaptive identity management</title>
-      <link>https://marinho-barcellos.github.io/publication/cnsm-cordeiro-smb-2011/</link>
+      <link>https://marinho-barcellos.github.io/publication/2011-cnsm-cordeiro/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/cnsm-cordeiro-smb-2011/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2011-cnsm-cordeiro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Choking polluters in BitTorrent file sharing communities</title>
-      <link>https://marinho-barcellos.github.io/publication/noms-santos-cgb-2010/</link>
+      <link>https://marinho-barcellos.github.io/publication/2010-noms-santos/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/noms-santos-cgb-2010/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2010-noms-santos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AGRADC: An Architecture for Autonomous Deployment and Configuration of Grid Computing Applications</title>
-      <link>https://marinho-barcellos.github.io/publication/iscc-gaspary-2009/</link>
+      <link>https://marinho-barcellos.github.io/publication/2009-iscc-gaspary/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/iscc-gaspary-2009/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2009-iscc-gaspary/</guid>
       <description></description>
     </item>
     

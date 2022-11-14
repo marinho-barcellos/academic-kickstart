@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc 2017-2018, PhD 2019-...
+role: UFRGS MSc 2017-2018, LiU PhD 2019-...
 
 # Organizations/Affiliations
 organizations:
@@ -28,3 +28,5 @@ user_groups:
 - PhD Students
 #- Visitors
 ---
+
+"I am an information security researcher currently enrolled as a PhD student in the Computer Science Graduate School (CUGS) in Linköping University, Sweden. I have worked with research topics related to mobile, wearable and IoT security, and I am currently focused on Vehicular Ad Hoc Networks (VANETs) security."

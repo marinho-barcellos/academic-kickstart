@@ -5,18 +5,26 @@
     <link>https://marinho-barcellos.github.io/tags/sdn/</link>
       <atom:link href="https://marinho-barcellos.github.io/tags/sdn/index.xml" rel="self" type="application/rss+xml" />
     <description>SDN</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <url>https://marinho-barcellos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>SDN</title>
       <link>https://marinho-barcellos.github.io/tags/sdn/</link>
     </image>
     
     <item>
+      <title>Shoehorn: Towards Portable P4 for Low Cost Hardware</title>
+      <link>https://marinho-barcellos.github.io/publication/2022-networking-lorier/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2022-networking-lorier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Off the Wire Control: Improving the Control Plane Resilience through Cellular Networks</title>
-      <link>https://marinho-barcellos.github.io/publication/icc-petry-2015/</link>
+      <link>https://marinho-barcellos.github.io/publication/2015-icc-petry/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/icc-petry-2015/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2015-icc-petry/</guid>
       <description></description>
     </item>
     

@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD 2013-2018
+role: UNAL PhD 2013-2018, now a [Research Lecturer and Postdoc at UNAULA, Medellin](https://sites.google.com/a/unal.edu.co/sergiogutierrez/). 
 
 # Organizations/Affiliations
-organizations:
-- name: "UDEM"
-  url: "https://sites.google.com/a/unal.edu.co/sergiogutierrez/"
+# organizations:
+# - name: "UDEM"
+#   url: "https://sites.google.com/a/unal.edu.co/sergiogutierrez/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include computer networks and cybersecurity.

@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc 2013-2015
+role: UFRGS MSc 2013-2015, now a [Systems Programmer at Conectivida](https://www.linkedin.com/in/tobias-petry-3674a628/)
 
 # Organizations/Affiliations
-organizations:
-- name: ""
-  url: ""
+# organizations:
+# - name: ""
+#   url: ""
 
 
 # Short bio (displayed in user profile at end of posts)

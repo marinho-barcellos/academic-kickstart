@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc 2009-2012. PhD 2012-2017
+role: UFRGS MSc 2009-2012, UFRGS PhD 2012-2017, now an [Adjunct Professor at UNIPAMPA University](https://sites.unipampa.edu.br/rodrigomansilha/)
 
 # Organizations/Affiliations
-organizations:
-- name: "UNIPAMPA (Universidade Federal do Pampa)"
-  url: "http://lattes.cnpq.br/3118442101667444"
+# organizations:
+# - name: "UNIPAMPA (Universidade Federal do Pampa)"
+#   url: "http://lattes.cnpq.br/3118442101667444"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include computer networks and cybersecurity.

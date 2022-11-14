@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lucas Leal | marinho.barcellos</title>
+    <title>marinho.barcellos</title>
     <link>https://marinho-barcellos.github.io/authors/lucas-leal/</link>
       <atom:link href="https://marinho-barcellos.github.io/authors/lucas-leal/index.xml" rel="self" type="application/rss+xml" />
-    <description>Lucas Leal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <description>marinho.barcellos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
-      <title>Lucas Leal</title>
+      <url>https://marinho-barcellos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>marinho.barcellos</title>
       <link>https://marinho-barcellos.github.io/authors/lucas-leal/</link>
     </image>
     
     <item>
+      <title>AS-Path Prepending: there is no rose without a thorn</title>
+      <link>https://marinho-barcellos.github.io/publication/2020-imc-marcos/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2020-imc-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Uncovering Bugs in P4 Programs with Assertion-based Verification</title>
-      <link>https://marinho-barcellos.github.io/publication/sosr-freire-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/sosr-freire-2018/</guid>
+      <link>https://marinho-barcellos.github.io/publication/2018-sosr-freire/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2018-sosr-freire/</guid>
       <description></description>
     </item>
     

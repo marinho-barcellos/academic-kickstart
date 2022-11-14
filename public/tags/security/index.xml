@@ -5,18 +5,66 @@
     <link>https://marinho-barcellos.github.io/tags/security/</link>
       <atom:link href="https://marinho-barcellos.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <description>Security</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <url>https://marinho-barcellos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Security</title>
       <link>https://marinho-barcellos.github.io/tags/security/</link>
     </image>
     
     <item>
+      <title>Mitigating Position Falsification Attacks in Vehicular Platooning</title>
+      <link>https://marinho-barcellos.github.io/publication/2018-vnc-boeira/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2018-vnc-boeira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vouch: A Secure Proof-of-Location Scheme for VANETs</title>
+      <link>https://marinho-barcellos.github.io/publication/2018-mswim-boeira/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2018-mswim-boeira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of colluding Sybil nodes in message falsification attacks for vehicular platooning</title>
+      <link>https://marinho-barcellos.github.io/publication/2017-vnc-boeira/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2017-vnc-boeira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the impact of sybil attacks in cooperative driving scenarios</title>
+      <link>https://marinho-barcellos.github.io/publication/2017-ifipnetworking-boeira/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2017-ifipnetworking-boeira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASTORIA: A framework for attack simulation and evaluation in smart grids</title>
+      <link>https://marinho-barcellos.github.io/publication/2016-noms-wermann/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2016-noms-wermann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual network security: threats, countermeasures, and challenges</title>
+      <link>https://marinho-barcellos.github.io/publication/2015-jiisa-bays/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2015-jiisa-bays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards a flexible security framework for peer-to-peer based grid computing</title>
-      <link>https://marinho-barcellos.github.io/publication/mgc-detsch-gbc-2004/</link>
+      <link>https://marinho-barcellos.github.io/publication/2004-mgc-detsch/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/mgc-detsch-gbc-2004/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2004-mgc-detsch/</guid>
       <description></description>
     </item>
     

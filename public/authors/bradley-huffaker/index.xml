@@ -5,18 +5,42 @@
     <link>https://marinho-barcellos.github.io/authors/bradley-huffaker/</link>
       <atom:link href="https://marinho-barcellos.github.io/authors/bradley-huffaker/index.xml" rel="self" type="application/rss+xml" />
     <description>Bradley Huffaker</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <url>https://marinho-barcellos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Bradley Huffaker</title>
       <link>https://marinho-barcellos.github.io/authors/bradley-huffaker/</link>
     </image>
     
     <item>
       <title>Dynamic Property Enforcement in Programmable Data Planes</title>
-      <link>https://marinho-barcellos.github.io/publication/networking-neves-2019/</link>
+      <link>https://marinho-barcellos.github.io/publication/2021-ton-neves/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2021-ton-neves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spoofed Traffic Inference at IXPs: Challenges, Methods and Analysis</title>
+      <link>https://marinho-barcellos.github.io/publication/2020-comnet-muller/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2020-comnet-muller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
+      <link>https://marinho-barcellos.github.io/publication/2019-conext-muller/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2019-conext-muller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Property Enforcement in Programmable Data Planes</title>
+      <link>https://marinho-barcellos.github.io/publication/2019-networking-neves/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/networking-neves-2019/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2019-networking-neves/</guid>
       <description></description>
     </item>
     

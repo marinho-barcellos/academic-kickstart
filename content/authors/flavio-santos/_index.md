@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Flávio Santos
+name: Flavio Santos
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc 2008-2010, PhD 2010-2013
+role: UFRGS MSc 2008-2010, UFRGS PhD 2010-2013, now a [Data Infrastructure Engineer at Spotify, Sweden](https://www.linkedin.com/in/fsantos/)
 
 # Organizations/Affiliations
-organizations:
-- name: ""
-  url: ""
+# organizations:
+# - name: ""
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include computer networks and cybersecurity.

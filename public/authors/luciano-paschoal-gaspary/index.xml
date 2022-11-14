@@ -5,322 +5,258 @@
     <link>https://marinho-barcellos.github.io/authors/luciano-paschoal-gaspary/</link>
       <atom:link href="https://marinho-barcellos.github.io/authors/luciano-paschoal-gaspary/index.xml" rel="self" type="application/rss+xml" />
     <description>Luciano Paschoal Gaspary</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <url>https://marinho-barcellos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Luciano Paschoal Gaspary</title>
       <link>https://marinho-barcellos.github.io/authors/luciano-paschoal-gaspary/</link>
     </image>
     
     <item>
       <title>NDNrel: A mechanism based on relations among objects to improve the performance of NDN</title>
-      <link>https://marinho-barcellos.github.io/publication/jnca-antunes-lmgb-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/jnca-antunes-lmgb-2017/</guid>
+      <link>https://marinho-barcellos.github.io/publication/2017-jnca-antunes/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2017-jnca-antunes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal Service Function Chain Composition in Network Functions Virtualization</title>
-      <link>https://marinho-barcellos.github.io/publication/aims-ocampo-ginblgbg-2017/</link>
+      <link>https://marinho-barcellos.github.io/publication/2017-aims-ocampo/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/aims-ocampo-ginblgbg-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PredCloud: Providing predictable network performance in large-scale OpenFlow-enabled cloud platforms through trust-based allocation of resources</title>
-      <link>https://marinho-barcellos.github.io/publication/comcom-marcon-2016/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/comcom-marcon-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A toolset for efficient privacy-oriented virtual network embedding and its instantiation on SDN/OpenFlow-based substrates</title>
-      <link>https://marinho-barcellos.github.io/publication/comcom-bays-2016/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/comcom-bays-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ASTORIA: A framework for attack simulation and evaluation in smart grids</title>
-      <link>https://marinho-barcellos.github.io/publication/noms-wermann-bsfgb-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/noms-wermann-bsfgb-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How physical network topologies affect virtual network embedding quality: A characterization study based on ISP and datacenter networks</title>
-      <link>https://marinho-barcellos.github.io/publication/jnca-luizelli-bbbg-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/jnca-luizelli-bbbg-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Making puzzles green and useful for adaptive identity management in large-scale distributed systems</title>
-      <link>https://marinho-barcellos.github.io/publication/comnet-da-costa-cordeiro-2015/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/comnet-da-costa-cordeiro-2015/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2017-aims-ocampo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IoNCloud: exploring application affinity to improve utilization and predictability in datacenters</title>
-      <link>https://marinho-barcellos.github.io/publication/icc-marcon-2015/</link>
+      <link>https://marinho-barcellos.github.io/publication/2015-icc-marcon/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/icc-marcon-2015/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2015-icc-marcon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CCNrel: Leveraging relations among objects to improve the performance of CCN</title>
-      <link>https://marinho-barcellos.github.io/publication/im-antunes-2015/</link>
+      <link>https://marinho-barcellos.github.io/publication/2015-im-antunes/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/im-antunes-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opportunistic resilience embedding (ORE): Toward cost-efficient resilient virtual networks</title>
-      <link>https://marinho-barcellos.github.io/publication/comnet-oliveira-mbngmb-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/comnet-oliveira-mbngmb-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Piecing Together the NFV Provisioning Puzzle: Efficient Placement and Chaining of Virtual Network Functions</title>
-      <link>https://marinho-barcellos.github.io/publication/im-luizelli-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/im-luizelli-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Virtual network security: threats, countermeasures, and challenges</title>
-      <link>https://marinho-barcellos.github.io/publication/jiisa-bays-obgm-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/jiisa-bays-obgm-2015/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2015-im-antunes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A heuristic-based algorithm for privacy-oriented virtual network embedding</title>
-      <link>https://marinho-barcellos.github.io/publication/noms-richter-bays-2014/</link>
+      <link>https://marinho-barcellos.github.io/publication/2014-noms-bays/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/noms-richter-bays-2014/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2014-noms-bays/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HIPER: Heuristic-based infrastructure expansion through partition reconnection for efficient Virtual Network Embedding</title>
-      <link>https://marinho-barcellos.github.io/publication/cnsm-caggiani-luizelli-2014/</link>
+      <link>https://marinho-barcellos.github.io/publication/2014-cnsm-luizelli/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/cnsm-caggiani-luizelli-2014/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2014-cnsm-luizelli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconnecting Partitions on Physical Infrastructures: Towards an Expansion Strategy for Efficient Virtual Network Embedding</title>
-      <link>https://marinho-barcellos.github.io/publication/sbrc-luizelli-2014/</link>
+      <link>https://marinho-barcellos.github.io/publication/2014-sbrc-luizelli/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/sbrc-luizelli-2014/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2014-sbrc-luizelli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slowing down to speed up: Protecting users against massive attacks in content distribution systems</title>
-      <link>https://marinho-barcellos.github.io/publication/noms-santos-bg-2014/</link>
+      <link>https://marinho-barcellos.github.io/publication/2014-noms-santos/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/noms-santos-bg-2014/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2014-noms-santos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Survivor: An enhanced controller placement strategy for improving SDN survivability.</title>
-      <link>https://marinho-barcellos.github.io/publication/globecom-muller-2014/</link>
+      <link>https://marinho-barcellos.github.io/publication/2014-globecom-muller/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/globecom-muller-2014/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2014-globecom-muller/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trust-based Grouping for Cloud Datacenters: improving security in shared infrastructures</title>
-      <link>https://marinho-barcellos.github.io/publication/networking-marcon-2013/</link>
+      <link>https://marinho-barcellos.github.io/publication/2013-ifipnetworking-marcon/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/networking-marcon-2013/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2013-ifipnetworking-marcon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DoS-resilient virtual networks through multipath embedding and opportunistic recovery</title>
-      <link>https://marinho-barcellos.github.io/publication/sac-oliveira-2013/</link>
+      <link>https://marinho-barcellos.github.io/publication/2013-sac-oliveira/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/sac-oliveira-2013/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2013-sac-oliveira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beyond pollution and taste: A tag-based strategy to increase download quality in P2P file sharing systems</title>
-      <link>https://marinho-barcellos.github.io/publication/comcom-santos-cgb-2013/</link>
+      <link>https://marinho-barcellos.github.io/publication/2013-comcom-santos/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/comcom-santos-cgb-2013/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2013-comcom-santos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterizing the impact of network substrate topologies on virtual network embedding</title>
-      <link>https://marinho-barcellos.github.io/publication/cnsm-caggiani-luizelli-2013/</link>
+      <link>https://marinho-barcellos.github.io/publication/2013-cnsm-luizelli/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/cnsm-caggiani-luizelli-2013/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2013-cnsm-luizelli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>No more backups: Toward efficient embedding of survivable virtual networks</title>
-      <link>https://marinho-barcellos.github.io/publication/icc-oliveira-2013-a/</link>
+      <link>https://marinho-barcellos.github.io/publication/2013-a-icc-oliveira/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/icc-oliveira-2013-a/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2013-a-icc-oliveira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slowing down to speed up: Mitigating collusion attacks in Content Distribution Systems</title>
-      <link>https://marinho-barcellos.github.io/publication/im-santos-2013/</link>
+      <link>https://marinho-barcellos.github.io/publication/2013-im-santos/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/im-santos-2013/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2013-im-santos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Workflow specification and scheduling with security constraints in hybrid clouds</title>
-      <link>https://marinho-barcellos.github.io/publication/latincloud-marcon-bdnmfkbgf-2013/</link>
+      <link>https://marinho-barcellos.github.io/publication/2013-latincloud-marcon/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/latincloud-marcon-bdnmfkbgf-2013/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2013-latincloud-marcon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Make it Green and Useful: Reshaping Puzzles for Identity Management in Large-scale Distributed Systems</title>
-      <link>https://marinho-barcellos.github.io/publication/im-da-costa-cordeiro-2012/</link>
+      <link>https://marinho-barcellos.github.io/publication/2012-im-cordeiro/</link>
       <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/im-da-costa-cordeiro-2012/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2012-im-cordeiro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterizing dissemination of illegal copies of content through monitoring of BitTorrent networks</title>
-      <link>https://marinho-barcellos.github.io/publication/noms-schmidt-abg-2012/</link>
+      <link>https://marinho-barcellos.github.io/publication/2012-noms-schmidt/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/noms-schmidt-abg-2012/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2012-noms-schmidt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Denial-of-service attacks and countermeasures on BitTorrent</title>
-      <link>https://marinho-barcellos.github.io/publication/comnet-lehmann-sgb-2012/</link>
+      <link>https://marinho-barcellos.github.io/publication/2012-comnet-lehmann/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/comnet-lehmann-sgb-2012/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2012-comnet-lehmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identity management based on adaptive puzzles to protect P2P systems from Sybil attacks</title>
-      <link>https://marinho-barcellos.github.io/publication/comnet-cordeiro-smbg-2012/</link>
+      <link>https://marinho-barcellos.github.io/publication/2012-comnet-cordeiro/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/comnet-cordeiro-smbg-2012/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2012-comnet-cordeiro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security-aware optimal resource allocation for virtual network embedding</title>
-      <link>https://marinho-barcellos.github.io/publication/cnsm-bays-2012/</link>
+      <link>https://marinho-barcellos.github.io/publication/2012-cnsm-bays/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/cnsm-bays-2012/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2012-cnsm-bays/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A conservative strategy to protect P2P file sharing systems from pollution attacks</title>
-      <link>https://marinho-barcellos.github.io/publication/ccpe-barcellos-gca-2011/</link>
+      <link>https://marinho-barcellos.github.io/publication/2011-concurrencype-barcellos/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/ccpe-barcellos-gca-2011/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2011-concurrencype-barcellos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Challenging the feasibility of authentication mechanisms for P2P live streaming</title>
-      <link>https://marinho-barcellos.github.io/publication/lanc-coelho-pabjg-2011/</link>
+      <link>https://marinho-barcellos.github.io/publication/2011-lanc-coelho/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/lanc-coelho-pabjg-2011/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2011-lanc-coelho/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Funnel: Choking Polluters in BitTorrent File Sharing Communities</title>
-      <link>https://marinho-barcellos.github.io/publication/tnsm-santos-cgb-2011/</link>
+      <link>https://marinho-barcellos.github.io/publication/2011-tnsm-santos/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/tnsm-santos-cgb-2011/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2011-tnsm-santos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Observing the BitTorrent universe through Telescopes</title>
-      <link>https://marinho-barcellos.github.io/publication/im-mansilha-blmfgb-2011/</link>
+      <link>https://marinho-barcellos.github.io/publication/2011-im-mansilha/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/im-mansilha-blmfgb-2011/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2011-im-mansilha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Securing P2P systems from Sybil attacks through adaptive identity management</title>
-      <link>https://marinho-barcellos.github.io/publication/cnsm-cordeiro-smb-2011/</link>
+      <link>https://marinho-barcellos.github.io/publication/2011-cnsm-cordeiro/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/cnsm-cordeiro-smb-2011/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2011-cnsm-cordeiro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Choking polluters in BitTorrent file sharing communities</title>
-      <link>https://marinho-barcellos.github.io/publication/noms-santos-cgb-2010/</link>
+      <link>https://marinho-barcellos.github.io/publication/2010-noms-santos/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/noms-santos-cgb-2010/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2010-noms-santos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AGRADC: An Architecture for Autonomous Deployment and Configuration of Grid Computing Applications</title>
-      <link>https://marinho-barcellos.github.io/publication/iscc-gaspary-2009/</link>
+      <link>https://marinho-barcellos.github.io/publication/2009-iscc-gaspary/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/iscc-gaspary-2009/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2009-iscc-gaspary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible security in peer-to-peer applications: Enabling new opportunities beyond file sharing</title>
-      <link>https://marinho-barcellos.github.io/publication/comnet-gaspary-2007/</link>
+      <link>https://marinho-barcellos.github.io/publication/2007-comnet-gaspary/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/comnet-gaspary-2007/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2007-comnet-gaspary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible Security Configuration &amp; Deployment in Peer-to-Peer Applications</title>
-      <link>https://marinho-barcellos.github.io/publication/noms-detsch-gbs-2006/</link>
+      <link>https://marinho-barcellos.github.io/publication/2006-noms-detsch/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/noms-detsch-gbs-2006/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2006-noms-detsch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Policy-based access control in peer-to-peer grid systems</title>
-      <link>https://marinho-barcellos.github.io/publication/grid-silva-gbd-2005/</link>
+      <link>https://marinho-barcellos.github.io/publication/2005-grid-silva/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/grid-silva-gbd-2005/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2005-grid-silva/</guid>
       <description></description>
     </item>
     

@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc 2016-2018
+role: UFRGS MSc 2016-2018, now at Banrisul Bank
 
 # Organizations/Affiliations
-organizations:
-- name: "BANRISUL Bank (RS)"
-  url: ""
+# organizations:
+# - name: "BANRISUL Bank (RS)"
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include computer networks and cybersecurity.

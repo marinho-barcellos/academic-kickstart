@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD 2012-2017
+role: UFRGS PhD 2012-2017, now a [Software Engineer at Siemens, Austria](https://www.linkedin.com/in/matheuslehmann/)
 
 # Organizations/Affiliations
-organizations:
-- name: "ADBSAFEGATE"
-  url: "https://at.linkedin.com/in/matheuslehmann/"
+# organizations:
+# - name: "ADBSAFEGATE"
+#   url: "https://at.linkedin.com/in/matheuslehmann/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include computer networks and cybersecurity.

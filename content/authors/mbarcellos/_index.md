@@ -18,12 +18,13 @@ organizations:
   url: "https://www.waikato.ac.nz/staff-profiles/people/mbarcell"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer networks and cybersecurity.
+bio: 
 
 interests:
 - Internet measurements
-- Programmable data planes
 - Network security
+- Programmable data planes
+- VANETs
 
 education:
   courses:
@@ -61,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "marinho.barcellos@waikato.ac.nz"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,7 +71,12 @@ user_groups:
 #- Researchers
 #- Visitors
 ---
+In October 2019 I joined the School of Computer and Mathematical Sciences at University of Waikato. Between 2010 and 2019 I worked at [INF/UFRGS](http://www.inf.ufrgs.br/site/en/) Federal University (**Associate Professor**) and prior to that, at UNISINOS University (1993-2008) and PUC-RS University (2008-2009). 
+<!-- I was a holder of a distinguished researcher CNPq grant Level 1D. -->
 
-Marinho Barcellos is a professor at the School of Computer and Mathematical Sciences at University of Waikato and a member of the [WAND network research group](https://wand.net.nz/). His research interests include Internet measurements, programmable data planes and network security.  
+I have regularly contributed to the network research community by serving in multiple committees. I was the general co-chair of ACM [SIGCOMM 2016](https://conferences.sigcomm.org/sigcomm/2016/) and have been serving as Program Committee co-chair of ACM [CoNEXT 2022](https://conferences2.sigcomm.org/co-next/2022/). I have contributed as a member of several Technical Program Committees of conferences: ACM CoNEXT, IEEE INFOCOM, IEEE ICNP, ACM HotNets, ACM IMC, IFIP Networking, etc. I was a member of the ACM SIGCOMM [SIGCOMM executive committee](https://www.sigcomm.org/about/people) 2017-2021, and have been a co-chair of the ACM [SIGCOMM CARES committee](http://www.sigcomm.org/content/committee-aid-reporting-discrimination-and-harassment-policy-violations). I also contributed as a member of the steering committees of ACM [CoNEXT](https://www.sigcomm.org/events/conext-conference) and the [PAM conference](https://pam2020.cs.uoregon.edu/). Looking forward, I will be chairing the Advisory Board of the ACM [PACM-NET journal](https://dl.acm.org/journal/pacmnet).
 
-He was an Adjunct and later Associate Professor at [INF/UFRGS](http://www.inf.ufrgs.br/site/en/) between 2010 and 2019 and recently moved to the [University of Waikato](https://www.waikato.ac.nz/).
+I am fortunate to have supervised many bright [students](#people) (and hope some new ones look for me in the future). [Contact me](mailto:marinho.barcellos@waikato.ac.nz) if you are interested, but to be sure I am a good fit for you, please first read [my recent papers](#publications) and be ready to talk about the ones that interested you: it's a *proof-of-work* without which you may not get a response :)
+ <!-- If you do not discuss my work, I will not respond to your email. -->
+
+My research has addressed a range of challenges as technology evolved, covering the non-functional properties of performance, security and resilience of networked systems and their underlying protocols. Because of the relevance of security and the Internet, this has been my main focus of interest for a number of years. 

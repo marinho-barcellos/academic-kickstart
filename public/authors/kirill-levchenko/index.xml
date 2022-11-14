@@ -5,34 +5,42 @@
     <link>https://marinho-barcellos.github.io/authors/kirill-levchenko/</link>
       <atom:link href="https://marinho-barcellos.github.io/authors/kirill-levchenko/index.xml" rel="self" type="application/rss+xml" />
     <description>Kirill Levchenko</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <url>https://marinho-barcellos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Kirill Levchenko</title>
       <link>https://marinho-barcellos.github.io/authors/kirill-levchenko/</link>
     </image>
     
     <item>
       <title>Dynamic Property Enforcement in Programmable Data Planes</title>
-      <link>https://marinho-barcellos.github.io/publication/networking-neves-2019/</link>
+      <link>https://marinho-barcellos.github.io/publication/2021-ton-neves/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2021-ton-neves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Property Enforcement in Programmable Data Planes</title>
+      <link>https://marinho-barcellos.github.io/publication/2019-networking-neves/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/networking-neves-2019/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2019-networking-neves/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncovering Bugs in P4 Programs with Assertion-based Verification</title>
-      <link>https://marinho-barcellos.github.io/publication/sosr-freire-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/sosr-freire-2018/</guid>
+      <link>https://marinho-barcellos.github.io/publication/2018-sosr-freire/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2018-sosr-freire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sandboxing Data Plane Programs for Fun and Profit</title>
-      <link>https://marinho-barcellos.github.io/publication/sigcomm-neves-lb-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/sigcomm-neves-lb-2017/</guid>
+      <link>https://marinho-barcellos.github.io/publication/2017-sigcommposter-neves/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2017-sigcommposter-neves/</guid>
       <description></description>
     </item>
     

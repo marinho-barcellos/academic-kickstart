@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc 2018-... (part-time)
+role: UFRGS MSc 2018-2022 (part-time), now [Head of R&D at the National Academic Network RNP](https://www.linkedin.com/in/lmondin/)
 
 # Organizations/Affiliations
-organizations:
-- name: "INF/UFRGS, RNP"
-  url: "https://br.linkedin.com/in/lmondin/"
+# organizations:
+# - name: "INF/UFRGS, RNP"
+#   url: "https://br.linkedin.com/in/lmondin/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include computer networks and cybersecurity.
@@ -25,6 +25,7 @@ organizations:
 user_groups:
 #- Principal Investigators
 #- Researchers
-- MSc Students
+#- Master Students
 #- Visitors
+- Alumni
 ---

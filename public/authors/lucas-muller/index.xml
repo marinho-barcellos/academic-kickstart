@@ -5,18 +5,66 @@
     <link>https://marinho-barcellos.github.io/authors/lucas-muller/</link>
       <atom:link href="https://marinho-barcellos.github.io/authors/lucas-muller/index.xml" rel="self" type="application/rss+xml" />
     <description>marinho.barcellos</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <url>https://marinho-barcellos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>marinho.barcellos</title>
       <link>https://marinho-barcellos.github.io/authors/lucas-muller/</link>
     </image>
     
     <item>
+      <title>Spoofed Traffic Inference at IXPs: Challenges, Methods and Analysis</title>
+      <link>https://marinho-barcellos.github.io/publication/2020-comnet-muller/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2020-comnet-muller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges in Inferring Spoofed Traffic at IXPs</title>
+      <link>https://marinho-barcellos.github.io/publication/2019-conext-muller/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2019-conext-muller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynam-IX: a dynamic interconnection eXchange</title>
+      <link>https://marinho-barcellos.github.io/publication/2018-conext-marcos/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2018-conext-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>POSTER: Dynam-IX: a Dynamic Interconnection eXchange</title>
-      <link>https://marinho-barcellos.github.io/publication/sigcomm-marcos-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/sigcomm-marcos-2018/</guid>
+      <link>https://marinho-barcellos.github.io/publication/2018-sigcomm-poster-marcos/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2018-sigcomm-poster-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POSTER: Dynam-IX: a Dynamic Interconnection eXchange</title>
+      <link>https://marinho-barcellos.github.io/publication/2018-anrw-poster-marcos/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2018-anrw-poster-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survivor: An enhanced controller placement strategy for improving SDN survivability.</title>
+      <link>https://marinho-barcellos.github.io/publication/2014-globecom-muller/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2014-globecom-muller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disconnecting to connect: Understanding optimistic disconnection in BitTorrent</title>
+      <link>https://marinho-barcellos.github.io/publication/2012-p-2-p-lehmann/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2012-p-2-p-lehmann/</guid>
       <description></description>
     </item>
     

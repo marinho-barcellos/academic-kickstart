@@ -5,90 +5,90 @@
     <link>https://marinho-barcellos.github.io/authors/rodolfo-stoffel-antunes/</link>
       <atom:link href="https://marinho-barcellos.github.io/authors/rodolfo-stoffel-antunes/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodolfo Stoffel Antunes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <url>https://marinho-barcellos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Rodolfo Stoffel Antunes</title>
       <link>https://marinho-barcellos.github.io/authors/rodolfo-stoffel-antunes/</link>
     </image>
     
     <item>
       <title>NDNrel: A mechanism based on relations among objects to improve the performance of NDN</title>
-      <link>https://marinho-barcellos.github.io/publication/jnca-antunes-lmgb-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/jnca-antunes-lmgb-2017/</guid>
+      <link>https://marinho-barcellos.github.io/publication/2017-jnca-antunes/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2017-jnca-antunes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CCNrel: Leveraging relations among objects to improve the performance of CCN</title>
-      <link>https://marinho-barcellos.github.io/publication/im-antunes-2015/</link>
+      <link>https://marinho-barcellos.github.io/publication/2015-im-antunes/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/im-antunes-2015/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2015-im-antunes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring your neighborhood: Comparing connection strategies in swarming networks through evolving graphs</title>
-      <link>https://marinho-barcellos.github.io/publication/p-2-p-lehmann-ab-2013/</link>
+      <link>https://marinho-barcellos.github.io/publication/2013-p-2-p-lehmann/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/p-2-p-lehmann-ab-2013/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2013-p-2-p-lehmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beyond network simulators: Fostering novel distributed applications and protocols through extendible design</title>
-      <link>https://marinho-barcellos.github.io/publication/jnca-barcellos-2012/</link>
+      <link>https://marinho-barcellos.github.io/publication/2012-jnca-barcellos/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/jnca-barcellos-2012/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2012-jnca-barcellos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterizing dissemination of illegal copies of content through monitoring of BitTorrent networks</title>
-      <link>https://marinho-barcellos.github.io/publication/noms-schmidt-abg-2012/</link>
+      <link>https://marinho-barcellos.github.io/publication/2012-noms-schmidt/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/noms-schmidt-abg-2012/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2012-noms-schmidt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disconnecting to connect: Understanding optimistic disconnection in BitTorrent</title>
-      <link>https://marinho-barcellos.github.io/publication/p-2-p-lehmann-mab-2012/</link>
+      <link>https://marinho-barcellos.github.io/publication/2012-p-2-p-lehmann/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/p-2-p-lehmann-mab-2012/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2012-p-2-p-lehmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A conservative strategy to protect P2P file sharing systems from pollution attacks</title>
-      <link>https://marinho-barcellos.github.io/publication/ccpe-barcellos-gca-2011/</link>
+      <link>https://marinho-barcellos.github.io/publication/2011-concurrencype-barcellos/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/ccpe-barcellos-gca-2011/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2011-concurrencype-barcellos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Challenging the feasibility of authentication mechanisms for P2P live streaming</title>
-      <link>https://marinho-barcellos.github.io/publication/lanc-coelho-pabjg-2011/</link>
+      <link>https://marinho-barcellos.github.io/publication/2011-lanc-coelho/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/lanc-coelho-pabjg-2011/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2011-lanc-coelho/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible and secure service discovery in ubiquitous computing</title>
-      <link>https://marinho-barcellos.github.io/publication/jnca-moschetta-2010/</link>
+      <link>https://marinho-barcellos.github.io/publication/2010-jnca-moschetta/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/jnca-moschetta-2010/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2010-jnca-moschetta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible security in peer-to-peer applications: Enabling new opportunities beyond file sharing</title>
-      <link>https://marinho-barcellos.github.io/publication/comnet-gaspary-2007/</link>
+      <link>https://marinho-barcellos.github.io/publication/2007-comnet-gaspary/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/comnet-gaspary-2007/</guid>
+      <guid>https://marinho-barcellos.github.io/publication/2007-comnet-gaspary/</guid>
       <description></description>
     </item>
     

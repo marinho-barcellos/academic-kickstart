@@ -30,10 +30,27 @@
   url = "#publications"
   weight = 50
 
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 55
+
+[[main]]
+  name = "Internet Security"
+  url = "#internet"
+  weight = 55
+
+
 [[main]]
   name = "Talks"
   url = "#talks"
   weight = 60
+
+[[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 70
+
 
 # [[main]]
 #   name = "Projects"

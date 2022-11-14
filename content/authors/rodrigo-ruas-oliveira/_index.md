@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Rodrigo Ruas Oliveira
+name: Rodrigo Oliveira
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc 2011-2013, PhD 2013-2018 (inc)
+role: UFRGS MSc 2011-2013, UFRGS PhD 2013-2018 (inc), now a [Software Development Lead at Nelogica](https://www.linkedin.com/in/ruasoliveira/)
 
 # Organizations/Affiliations
-organizations:
-- name: ""
-  url: ""
+# organizations:
+# - name: ""
+#   url: ""
 
 
 # Short bio (displayed in user profile at end of posts)

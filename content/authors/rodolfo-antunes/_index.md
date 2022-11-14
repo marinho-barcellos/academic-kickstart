@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD 2010-2016
+role: UFRGS PhD 2010-2016, now an Adjunct Professor at [UNISINOS University](http://professor.unisinos.br/rsantunes/)
 
 # Organizations/Affiliations
-organizations:
-- name: "UNISINOS"
-  url: "http://professor.unisinos.br/rsantunes/"
+# organizations:
+# - name: "UNISINOS"
+#   url: "http://professor.unisinos.br/rsantunes/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include computer networks and cybersecurity.

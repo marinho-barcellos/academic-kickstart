@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "An Overview of the Brazilian Academic Security Landscape"
-event: "I US-BR Workshop on Cybersecurity"
+event: "I US-BR NFS/CNPq Workshop on Cybersecurity"
 event_url:
-location: "Brasilia"
+location: "Keynote  I US-BR NFS/CNPq Workshop on Cybersecurity"
 address:
   street:
   city:
@@ -24,7 +24,7 @@ all_day: true
 #publishDate: 2019-12-01T01:52:52+13:00
 
 authors: ["Marinho Barcellos"]
-tags: []
+tags: ["cyber-security", "brazil"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "http://inf.ufrgs.br/~marinho/wp-content/uploads/academic-security-landscape.pdf"
+url_slides: "slides/2015-CTIC-NSF-landscape-barcellos-slides.pdf"
 
 url_code:
 url_pdf:

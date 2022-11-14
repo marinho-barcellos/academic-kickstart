@@ -5,18 +5,42 @@
     <link>https://marinho-barcellos.github.io/authors/christoph-dietzel/</link>
       <atom:link href="https://marinho-barcellos.github.io/authors/christoph-dietzel/index.xml" rel="self" type="application/rss+xml" />
     <description>Christoph Dietzel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://marinho-barcellos.github.io/img/icon-192.png</url>
+      <url>https://marinho-barcellos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Christoph Dietzel</title>
       <link>https://marinho-barcellos.github.io/authors/christoph-dietzel/</link>
     </image>
     
     <item>
+      <title>A Survey on the Current Internet Interconnection Practices</title>
+      <link>https://marinho-barcellos.github.io/publication/2020-ccr-marcos/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2020-ccr-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynam-IX: a dynamic interconnection eXchange</title>
+      <link>https://marinho-barcellos.github.io/publication/2018-conext-marcos/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2018-conext-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>POSTER: Dynam-IX: a Dynamic Interconnection eXchange</title>
-      <link>https://marinho-barcellos.github.io/publication/sigcomm-marcos-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://marinho-barcellos.github.io/publication/sigcomm-marcos-2018/</guid>
+      <link>https://marinho-barcellos.github.io/publication/2018-sigcomm-poster-marcos/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2018-sigcomm-poster-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POSTER: Dynam-IX: a Dynamic Interconnection eXchange</title>
+      <link>https://marinho-barcellos.github.io/publication/2018-anrw-poster-marcos/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://marinho-barcellos.github.io/publication/2018-anrw-poster-marcos/</guid>
       <description></description>
     </item>
     

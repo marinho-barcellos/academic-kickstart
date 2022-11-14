@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc 2011-2013, PhD 2013-2017
+role: UFRGS MSc 2011-2013, UFRGS PhD 2013-2017, now a Professor at [UNISINOS University](http://professor.unisinos.br/danielstefani/)
 
 # Organizations/Affiliations
-organizations:
-- name: "UNISINOS"
-  url: ""
+# organizations:
+# - name: "UNISINOS"
+#   url: ""
 
 date: 2016
 

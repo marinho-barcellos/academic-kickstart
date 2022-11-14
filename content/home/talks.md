@@ -67,3 +67,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{< figure src="home/keynote-NFS-CNq-Workshop-Cybersecurity.jpg" title="" >}}

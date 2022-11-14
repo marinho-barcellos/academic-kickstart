@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Global Problems, Global Solutions: prospecting opportunities for joint research on Computer Security"
-event: "I US-BR Workshop on Cybersecurity"
+event: "I US-BR NFS/CNPq Workshop on Cybersecurity"
 event_url:
-location: "Brasilia"
+location: "Keynote I US-BR NFS/CNPq Workshop on Cybersecurity"
 address:
   street:
   city:
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "http://inf.ufrgs.br/~marinho/wp-content/uploads/GlobalProblemsGlobalSolutions-JointResearchonComputerSecurity-site.pdf"
+url_slides: "slides/2015-CTIC-NSF-global-barcellos-slides.pdf"
 
 url_code:
 url_pdf:
