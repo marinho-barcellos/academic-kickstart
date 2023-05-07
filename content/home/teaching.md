@@ -38,6 +38,14 @@ date_format = "2006-01"
 
 #### [School of Computing and Mathematical Sciences](https://www.cms.waikato.ac.nz/), [University of Waikato](https://www.waikato.ac.nz/)
 
+##### Trimester 2023-B (July to November)
+- [COMPX204](https://papers.waikato.ac.nz/papers/COMPX204): Practical Networking and Cyber Security
+- [COMPX515](https://papers.waikato.ac.nz/papers/COMPX515): Security for Advanced Networks
+
+##### Trimester 2023-A (February to July)
+- [COMPX304](https://papers.waikato.ac.nz/papers/COMPX304): Advanced Networking and Cyber Security (with Vimal Kumar)
+
+
 ##### Trimester 2022-B (July to November)
 - [COMPX515](https://papers.waikato.ac.nz/papers/COMPX515): Security for Advanced Networks
 - [COMPX101](https://papers.waikato.ac.nz/papers/COMPX101): Introduction to Programming (with Colin Pilbrow)

@@ -25,9 +25,9 @@ organizations:
 user_groups:
 #- Principal Investigators
 #- Researchers
-- PhD Students
+#- PhD Students
 #- Visitors
-#- Alumni
+- Alumni
 ---
 - **Topics:** SDN, programmable dataplanes
 - **Chief supervisor:** Richard Nelson

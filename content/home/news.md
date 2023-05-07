@@ -44,13 +44,19 @@ subtitle = ""
 +++
 
 ### Fresher
+- keynote on IXPs to be delivered at [BKNIX Peering Forum](https://peeringforum.bknix.co.th/) in Thailand, 15-16 May 2023
+- helping as Advisory PC member for IEEE INFOCOM 2024
+- happy to contribute to [ACM IMC 2023](https://conferences.sigcomm.org/imc/2023/#) as a TPC member. the [CfP](https://conferences.sigcomm.org/imc/2023/cfp/) is open, and the deadline is 20 May
+- new paper with Felipe and Mikael to appear on [ACM WiSec'23](https://wisec2023.surrey.ac.uk/), [Provable Non-Frameability for 5G Lawful Interception](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gYziq3EAAAAJ&sortby=pubdate&citation_for_view=gYziq3EAAAAJ:Ehil0879vHcC)
+- expanding admin duties, starting Dec 2022, as *Deputy Head of Department*, [Computer Science, UoW](https://www.cs.waikato.ac.nz/)
+
+### Older
+- Christopher Lorier, a co-supervision with Richard and Matthew, has defended his PhD at UoW, with the thesis title *Algorithmic Mapping of Software-Defined Networking Pipelines*. 
+- happy to **chair the Advisory Board** of the new [ACM PACMNET journal](https://dl.acm.org/journal/pacmnet), along with a great committee (Jia Wang, Morley Mao, Olivier Bonaventure, and Joerg Ott)
 - the [list of papers accepted at CoNEXT 2022](https://conferences2.sigcomm.org/co-next/2022/#!/program) is available. Congratulations to all authors! to Fabricio and Pedro too, for our paper on BGP communities!
 - contributed to a panel on internationalisation of the measurement community in Brazil, during the 4th [measurement workshop](https://indico.rnp.br/event/77/timetable/) organised by [RNP](https://www.rnp.br/en)
 - chairing the best paper award committee of [IEEE ICNP 2022](https://icnp22.cs.ucr.edu/index2.html)
-- happy to **chair the Advisory Board** of the new [ACM PACMNET journal](https://dl.acm.org/journal/pacmnet), along with a great committee (Jia Wang, Morley Mao, Olivier Bonaventure, and Joerg Ott)
 - Fabricio presented our [remote peering](https://conference.apnic.net/54/assets/files/APSG129/onthelatencyimpactof_1662967006.pdf) work in [APNIC 54](https://conference.apnic.net/54/)
-
-### Older
 - the notification for [CoNEXT 2022](https://conferences.sigcomm.org/co-next/2022/#!/home) has been sent. congratulations to authors of accepted papers! the conference happens 6-9 December, in Rome
 - very happy to team with [Justine Sherry](https://www.justinesherry.com/) for [CoNEXT 2022](https://conferences2.sigcomm.org/co-next/2022/#!/committee)
 - congrats [Fabricio](https://fmmazz.github.io/) for the [PAM 2022](https://pam2022.nl/) paper on assessing the impact of remote peering (with [Pedro](https://pedrobmarcos.github.io/), [Ignacio](http://www.eecs.qmul.ac.uk/profiles/castroignacio.html) and [Matthew](https://www.cms.waikato.ac.nz/people/mluckie)

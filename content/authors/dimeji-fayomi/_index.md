@@ -30,4 +30,4 @@ user_groups:
 #- Alumni
 ---
 - **Topics:** Performance-Aware Routing, Traffic Engineering, SDN
-- **Chief supervisor:** Richard Nelson
+<!-- - **Chief supervisor:** Richard Nelson -->

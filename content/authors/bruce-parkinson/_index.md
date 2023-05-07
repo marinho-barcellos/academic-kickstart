@@ -26,8 +26,8 @@ user_groups:
 #- Principal Investigators
 #- Researchers
 #- PhD Students
-- Master Students
+#- Master Students
 #- Visitors
-#- Alumni
+- Alumni
 ---
 - **Topics:** Security Risk modelling and assessment

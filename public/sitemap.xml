@@ -2,16 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://marinho-barcellos.github.io/authors/felipe-boeira/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marinho-barcellos.github.io/publication_types/1/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marinho-barcellos.github.io/tags/5g/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marinho-barcellos.github.io/authors/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marinho-barcellos.github.io/authors/marinho-barcellos/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marinho-barcellos.github.io/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marinho-barcellos.github.io/authors/mikael-asplund/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marinho-barcellos.github.io/tags/mobile-security/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marinho-barcellos.github.io/publication/2023-wisec-provable/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marinho-barcellos.github.io/publication_types/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marinho-barcellos.github.io/publication/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marinho-barcellos.github.io/tags/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://marinho-barcellos.github.io/authors/fabricio-mazzola/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://marinho-barcellos.github.io/authors/pedro-marcos/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marinho-barcellos.github.io/publication_types/1/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marinho-barcellos.github.io/authors/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://marinho-barcellos.github.io/tags/bgp-communities/</loc>
@@ -23,20 +53,8 @@
     <loc>https://marinho-barcellos.github.io/publication/2022-conext-mazzola/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marinho-barcellos.github.io/authors/marinho-barcellos/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marinho-barcellos.github.io/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marinho-barcellos.github.io/publication_types/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marinho-barcellos.github.io/publication/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marinho-barcellos.github.io/tags/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <loc>https://marinho-barcellos.github.io/publication/2022-wisec-boeira/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://marinho-barcellos.github.io/authors/christopher-lorier/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
@@ -164,13 +182,7 @@
     <loc>https://marinho-barcellos.github.io/_projects/p4sec-rnp-nsf/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marinho-barcellos.github.io/authors/felipe-boeira/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://marinho-barcellos.github.io/publication/2019-comcom-boeira/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marinho-barcellos.github.io/authors/mikael-asplund/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://marinho-barcellos.github.io/publication/2019-networking-neves/</loc>

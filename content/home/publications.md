@@ -68,6 +68,3 @@ subtitle = ""
 
 **Google [Scholar profile](https://scholar.google.com/citations?user=gYziq3EAAAAJ&hl=en).**
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
